@@ -1,0 +1,39 @@
+package test;
+
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+import io.restassured.response.Response;
+import net.thucydides.core.annotations.Steps;
+import steps.AssignmentFourthSteps;
+import steps.AssignmentThirdStpes;
+
+public class AssignmentFourth {
+	
+	@Steps
+	static AssignmentFourthSteps steps;
+	
+	@Test
+    public void assignmentThird() {
+		      
+        RestAssured.baseURI = "https://reqres.in/";
+      
+        Response res = RestAssured.given()
+        		.contentType("application/json")
+        		.queryParam("email","eve.holt@reqres.in")
+                .queryParam("password","pistol")
+                .when().post("/api/register");
+        
+        System.out.println("The response status is "+res.getStatusCode());
+        
+        steps.validateStatusCode(res, 201);
+        
+        steps.validateRespose(res, "Operation completed successfully");
+        
+        steps.validateStatusCode(res, 200);
+        
+        steps.validateRespose(res, "FAULT_USER_ALREADY_EXISTS");
+       
+    }
+
+}

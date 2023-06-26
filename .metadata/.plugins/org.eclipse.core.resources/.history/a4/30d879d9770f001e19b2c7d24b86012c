@@ -1,0 +1,48 @@
+package test;
+
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+import io.restassured.response.Response;
+import net.serenitybdd.rest.SerenityRest;
+import net.thucydides.core.annotations.Steps;
+import steps.AssignmentFourthSteps;
+import steps.AssignmentThirdStpes;
+
+public class AssignmentFourth {
+	
+	@Steps
+	static AssignmentFourthSteps steps;
+	
+	@Test
+    public void assignmentThird() {
+		      
+        RestAssured.baseURI = "https://reqres.in/";
+      
+        // for valid data 
+        Response res = SerenityRest.given()
+        		.auth().preemptive()
+        		.basic("eve.holt@reqres.in", "cityslicka")
+                .when().post("/api/login");
+        
+        System.out.println("The response status is "+res.getStatusCode());
+        
+        steps.validateStatusCode(res, 200);
+        
+        steps.validateRespose(res, "QpwL5tke4Pnpja7X4");
+        
+        // for invalid data 
+        Response res2 = SerenityRest.given()
+        		.auth().preemptive()
+        		.basic("peter@klaven", "abc")
+                .when().post("/api/login");
+        
+        System.out.println("The response status is "+res.getStatusCode());
+        
+        steps.validateStatusCode(res, 400);
+        
+        steps.validateRespose(res, "error");
+       
+    }
+
+}

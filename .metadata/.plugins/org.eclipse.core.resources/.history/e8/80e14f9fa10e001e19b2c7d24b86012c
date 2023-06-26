@@ -1,0 +1,35 @@
+package test;
+
+import org.testng.annotations.Test;
+
+import static io.restassured.RestAssured.*;
+
+import io.restassured.http.ContentType;
+import io.restassured.response.Response;
+import static io.restassured.matcher.RestAssuredMatchers.*;
+import static org.hamcrest.Matchers.*;
+
+public class AssignmentFirst {
+
+	
+	@Test
+	public void firstTest() {
+		
+	//	baseURI="http://restcountries.eu/rest/v3.1/name";
+		
+		
+		
+		Response response = get("https://restcountries.com/v2/name/INDIA");
+		
+		System.out.println(response.getStatusCode());
+		System.out.println(response.getBody().asPrettyString());
+		
+		/*
+		given()
+		.get("/name/INDIA")
+		.then()
+		.statusCode(404)
+		.body(DEFAULT_BODY_ROOT_PATH, "Not Found"); */
+	}
+	
+}

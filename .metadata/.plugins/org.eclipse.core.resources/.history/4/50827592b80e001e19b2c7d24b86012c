@@ -1,0 +1,19 @@
+package steps;
+
+import io.restassured.response.Response;
+import net.thucydides.core.annotations.Step;
+import static org.hamcrest.MatcherAssert.assertThat;
+
+public class AssignmentThirdStpes {
+	
+	@Step
+	public void validateRespose(Response res, String body) {
+		String resBody = res.getBody().asString();
+		String expected ="";
+		if(resBody.contains("Operation completed successfully")) {
+			expected ="Operation completed successfully";
+		}
+		assertThat(expected, true);
+	}
+
+}

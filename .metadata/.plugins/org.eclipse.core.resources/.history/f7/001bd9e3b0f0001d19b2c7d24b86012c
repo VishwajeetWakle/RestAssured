@@ -1,0 +1,31 @@
+package test;
+
+import org.testng.annotations.Test;
+
+import static io.restassured.RestAssured.*;
+
+import io.restassured.http.ContentType;
+import io.restassured.response.Response;
+import static io.restassured.matcher.RestAssuredMatchers.*;
+import static org.hamcrest.Matchers.*;
+
+public class AssignmentFirst {
+
+	
+	@Test
+	public void firstTest() {
+		
+		baseURI="http://restcountries.eu/rest/v1";
+		
+		Response response = get("/name/INDIA");
+		
+		System.out.println(response.getStatusCode());
+		System.out.println(response.getBody().asString());
+		/*
+		given()
+		.get("/name/INDIA")
+		.then()
+		.statusCode(404); */
+	}
+	
+}

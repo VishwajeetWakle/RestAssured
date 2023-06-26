@@ -1,0 +1,86 @@
+package test;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+import io.restassured.http.ContentType;
+import io.restassured.response.Response;
+import io.restassured.RestAssured.*;
+import io.restassured.matcher.RestAssuredMatchers.*;
+import org.hamcrest.Matchers.*;
+
+public class AssignmentThird1 {
+
+	
+	@Test
+    public void assignmentThird() {
+         
+        RestAssured.baseURI = "http://restapi.demoqa.com/customer";
+        
+        Map<String, String> reqParams = new HashMap<String, String>();
+        reqParams.put("FirstName", "John");
+        reqParams.put("LastName", "Doe");
+        reqParams.put("UserName", "johndoe");
+        reqParams.put("Password", "password123");
+        reqParams.put("Email", "johndoe@example.com");
+        
+        Response response = RestAssured.given()
+                .contentType(ContentType.JSON)
+                .body(reqParams)
+                .post("/register");
+        
+        int statusCode= RestAssured.given().queryParam("FirstName","Abc")
+                .queryParam("LastName","XYZ")
+                .queryParam("UserName","abcxyz")
+                .queryParam("Password","abc@123")
+                .queryParam("Email","abc@mail.com")
+                .when().get("/register")
+                .getStatusCode();
+        System.out.println("The response status is "+statusCode);
+
+        RestAssured.given().when().get("/register").then().assertThat().statusCode(200);
+     
+         
+        String responseBody = response.getBody().asString();
+        
+        if (response.getStatusCode() == 201) {
+            System.out.println("Post request was successful. Status code: 201");
+        } else {
+            System.out.println("Post request failed. Status code: " + response.getStatusCode());
+        }
+         
+        if (responseBody.contains("Operation completed successfully")) {
+            System.out.println("Response body contains 'Operation completed successfully'.");
+        } else {
+            System.out.println("Response body does not contain 'Operation completed successfully'.");
+        }
+        // 
+        if (responseBody.contains("\"SuccessCode\":\"OPERATION_SUCCESS\"")) {
+            System.out.println("Response success code is 'OPERATION_SUCCESS'.");
+        } else {
+            System.out.println("Response success code is not 'OPERATION_SUCCESS'.");
+        }
+        
+        response = RestAssured.given()
+                .contentType(ContentType.JSON)
+                .body(reqParams)
+                .post("/register");
+         
+        responseBody = response.getBody().asString();
+         
+        if (response.getStatusCode() == 200) {
+            System.out.println("Post request was successful. Status code: 200");
+        } else {
+            System.out.println("Post request failed. Status code: " + response.getStatusCode());
+        }
+        
+        if (responseBody.contains("\"Fault\":\"FAULT_USER_ALREADY_EXISTS\"")) {
+            System.out.println("Response contains 'FAULT_USER_ALREADY_EXISTS' as a fault.");
+        } else {
+            System.out.println("Response does not contain 'FAULT_USER_ALREADY_EXISTS' as a fault.");
+        }
+    }
+}

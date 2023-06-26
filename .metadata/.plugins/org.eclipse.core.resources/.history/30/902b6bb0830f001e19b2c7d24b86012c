@@ -1,0 +1,26 @@
+package test;
+
+import static org.hamcrest.Matchers.equalTo;
+
+import io.restassured.RestAssured;
+
+public class FinalProject {
+	
+
+	@org.junit.Test
+    public void assignmentFourth() {
+		
+		
+		// https://restcountries.eu/rest/v2/alpha/co2
+		String url ="https://restcountries.com/v2/alpha/co";
+		      
+       RestAssured.given().when().get(url)
+       .then().statusCode(200)
+       .and().body("name", equalTo("Colombia"))
+       .and().body("population", equalTo(50339443))
+       .and().body("region", equalTo("Americas"))
+       .and().body("subregion", equalTo("South America"));
+   
+	}
+
+}

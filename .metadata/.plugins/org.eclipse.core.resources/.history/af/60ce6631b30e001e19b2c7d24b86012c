@@ -1,0 +1,17 @@
+package steps;
+
+import static org.junit.Assert.assertThat;
+
+import io.restassured.response.Response;
+import net.thucydides.core.annotations.Step;
+import static org.hamcrest.Matchers.equalTo;
+import static org.hamcrest.MatcherAssert.assertThat;;
+
+public class AssignmentThirdSteps {
+	
+	@Step
+	public void assignmentThird(Response res, int expectedStatusCode) {
+		assertThat(res.getStatusCode(), equalTo(expectedStatusCode));
+	}
+
+}

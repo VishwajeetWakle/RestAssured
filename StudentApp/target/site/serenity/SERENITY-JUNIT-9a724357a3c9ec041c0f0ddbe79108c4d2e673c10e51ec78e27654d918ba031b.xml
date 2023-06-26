@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="com.studentapp.junit.studentsinfo.StudentCRUDTest" skipped="0" tests="1" time="2.88" timestamp="2023-04-12 06:39:27"><testcase classname="com.studentapp.junit.studentsinfo.StudentCRUDTest" name="This test will create a new student"><error message="class &quot;org.hamcrest.Matchers&quot;'s signer information does not match signer information of other classes in the same package" type="java.lang.SecurityException">class "org.hamcrest.Matchers"'s signer information does not match signer information of other classes in the same package</error><system-err>class "org.hamcrest.Matchers"'s signer information does not match signer information of other classes in the same package&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:143)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)&#13;
+com.studentapp.junit.studentsinfo.StudentCRUDTest.createStudent(StudentCRUDTest.java:50)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:538)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:760)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:460)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:206)&#13;
+</system-err></testcase></testsuite>
