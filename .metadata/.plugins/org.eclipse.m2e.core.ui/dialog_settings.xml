@@ -4,6 +4,7 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="RestAssuredTraining"/>
 			<item value="IIHTAssignment1"/>
 			<item value="RESTAssuredProject"/>
 		</list>
@@ -12,6 +13,7 @@
 			<item value="RESTAssuredProject"/>
 		</list>
 		<list key="artifactId">
+			<item value="RestAssuredTraining"/>
 			<item value="Assignment1"/>
 			<item value="RESTAssuredProject"/>
 		</list>
@@ -52,7 +54,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
-		<item value="All Catalogs" key="catalog"/>
+		<item key="catalog" value="All Catalogs"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
