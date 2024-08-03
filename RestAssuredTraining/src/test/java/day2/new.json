@@ -1,0 +1,49 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John",
+      "location": "India",
+      "phone": "1234567890",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Ram",
+      "location": "AUS",
+      "phone": "1234567890",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Sham",
+      "location": "UK",
+      "phone": "46561236547",
+      "courses": [
+        "java",
+        "Rest Assure"
+      ]
+    },
+    {
+      "id": "eaa8",
+      "empty": false,
+      "mapType": "java.util.HashMap"
+    },
+    {
+      "id": "4",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "5647891230",
+      "name": "Scott",
+      "location": "FR"
+    }
+  ]
+}
