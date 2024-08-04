@@ -1,0 +1,25 @@
+{
+  "store": {
+    "book": [
+      {
+        "author": "Nigel Rees",
+        "category": "reference",
+        "price": 150.5,
+        "title": "Sayings of the Century"
+      },
+      {
+        "author": "Evelyn Waugh",
+        "category": "friction",
+        "price": 100,
+        "title": "Sword of Honour"
+      },
+      {
+        "author": "Herman Melville",
+        "category": "friction",
+        "isbn": "0-553-21311-3",
+        "price": 75.5,
+        "title": "Moby Dick"
+      }
+    ]
+  }
+}
