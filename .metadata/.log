@@ -256,3 +256,1277 @@ java -ea -classpath D:\Softwares\eclipse\configuration\org.eclipse.osgi\957\0\.c
   Class:     org.testng.remote.RemoteTestNG
   Args:      -serport 60095 -protocol json -d D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\test-output C:\Users\Assus\AppData\Local\Temp\testng-eclipse--146015624\testng-customsuite.xml
 java -ea -classpath D:\Softwares\eclipse\configuration\org.eclipse.osgi\957\0\.cp\lib\testng-remote.jar:D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\test-classes:D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\classes:D:\Softwares\eclipse\plugins\org.testng_7.4.0.r202105021533.jar:D:\Softwares\eclipse\plugins\com.beust.jcommander_1.78.0.jar:D:\Softwares\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\Softwares\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Softwares\eclipse\plugins\org.webjars.jquery_3.5.1.jar:C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured\5.4.0\rest-assured-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy\4.0.16\groovy-4.0.16.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-xml\4.0.16\groovy-xml-4.0.16.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar:C:\Users\Assus\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar:C:\Users\Assus\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar:C:\Users\Assus\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar:C:\Users\Assus\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar:C:\Users\Assus\.m2\repository\io\rest-assured\xml-path\5.4.0\xml-path-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar:C:\Users\Assus\.m2\repository\io\rest-assured\json-path\5.4.0\json-path-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-json\4.0.16\groovy-json-4.0.16.jar:C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured-common\5.4.0\rest-assured-common-5.4.0.jar:C:\Users\Assus\.m2\repository\org\json\json\20231013\json-20231013.jar:C:\Users\Assus\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar:C:\Users\Assus\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar:C:\Users\Assus\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar:C:\Users\Assus\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-apis\8.3.1\scribejava-apis-8.3.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-core\8.3.1\scribejava-core-8.3.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-java8\8.3.1\scribejava-java8-8.3.1.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.3\jackson-databind-2.12.3.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.3\jackson-annotations-2.12.3.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.3\jackson-core-2.12.3.jar:C:\Users\Assus\.m2\repository\io\rest-assured\json-schema-validator\5.4.0\json-schema-validator-5.4.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.14\json-schema-validator-2.2.14.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils-equivalence\1.0\jackson-coreutils-equivalence-1.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils\2.0\jackson-coreutils-2.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\msg-simple\1.2\msg-simple-1.2.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\btf\1.3\btf-1.3.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.14\json-schema-core-1.2.14.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\uri-template\0.10\uri-template-0.10.jar:C:\Users\Assus\.m2\repository\org\mozilla\rhino\1.7.7.2\rhino-1.7.7.2.jar:C:\Users\Assus\.m2\repository\com\sun\mail\mailapi\1.6.2\mailapi-1.6.2.jar:C:\Users\Assus\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar:C:\Users\Assus\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.11.1\libphonenumber-8.11.1.jar:C:\Users\Assus\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar:C:\Users\Assus\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar:C:\Users\Assus\.m2\repository\com\google\guava\guava\32.0.1-jre\guava-32.0.1-jre.jar:C:\Users\Assus\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar:C:\Users\Assus\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:C:\Users\Assus\.m2\repository\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar:C:\Users\Assus\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar:C:\Users\Assus\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar org.testng.remote.RemoteTestNG -serport 60095 -protocol json -d D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\test-output C:\Users\Assus\AppData\Local\Temp\testng-eclipse--146015624\testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 02:54:34.447
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 02:54:34.449
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2024-08-04 17:57:00.348 -----------------------------------------------
+eclipse.buildId=4.22.0.I20211124-1800
+java.version=17.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2024-08-04 18:01:20.818
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-08-04 18:01:20.818
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5c438795,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3b4b2c03,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-08-04 18:01:20.818
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@339b45f8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5fb58f15,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui.navigator 2 0 2024-08-04 18:01:31.698
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY org.eclipse.ui.navigator 2 0 2024-08-04 18:01:31.699
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-08-04 18:01:31.780
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Assus'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2024-08-04 18:01:34.040
+!MESSAGE Starting the AWS toolkit core plugin...
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2024-08-04 18:01:35.785
+!MESSAGE Monitoring content of C:\Users\Assus\.aws\credentials
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2024-08-04 18:01:37.125
+!MESSAGE AWS toolkit core plugin initialized after 3085 milliseconds.
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2024-08-04 18:01:37.511
+!MESSAGE Found valid identity id cache us-east-1:622b0cc5-1405-c6ed-b78f-0f98f18dce1f
+
+!ENTRY org.eclipse.buildship.core 2 2 2024-08-04 18:02:25.938
+!MESSAGE Synchronize project serenity-junit-starter-master failed due to an error in the referenced Gradle build.
+!STACK 0
+org.gradle.tooling.BuildException: Could not run phased build action using connection to Gradle distribution 'https://services.gradle.org/distributions/gradle-7.2-bin.zip'.
+	at org.gradle.tooling.internal.consumer.ExceptionTransformer.transform(ExceptionTransformer.java:51)
+	at org.gradle.tooling.internal.consumer.ExceptionTransformer.transform(ExceptionTransformer.java:29)
+	at org.gradle.tooling.internal.consumer.ResultHandlerAdapter.onFailure(ResultHandlerAdapter.java:43)
+	at org.gradle.tooling.internal.consumer.async.DefaultAsyncConsumerActionExecutor$1$1.run(DefaultAsyncConsumerActionExecutor.java:69)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:56)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+	at org.gradle.tooling.internal.consumer.BlockingResultHandler.getResult(BlockingResultHandler.java:46)
+	at org.gradle.tooling.internal.consumer.DefaultPhasedBuildActionExecuter.run(DefaultPhasedBuildActionExecuter.java:63)
+	at org.gradle.tooling.internal.consumer.DefaultPhasedBuildActionExecuter.run(DefaultPhasedBuildActionExecuter.java:31)
+	at org.eclipse.buildship.core.internal.workspace.EclipseModelUtils.runPhasedModelQuery(EclipseModelUtils.java:111)
+	at org.eclipse.buildship.core.internal.workspace.EclipseModelUtils.runTasksAndQueryCompositeModelWithRuntimInfo(EclipseModelUtils.java:86)
+	at org.eclipse.buildship.core.internal.workspace.EclipseModelUtils.runTasksAndQueryModels(EclipseModelUtils.java:60)
+	at org.eclipse.buildship.core.internal.workspace.DefaultModelProvider.lambda$null$4(DefaultModelProvider.java:75)
+	at org.eclipse.buildship.core.internal.DefaultGradleBuild$GradleConnectionOperation.runInToolingApi(DefaultGradleBuild.java:329)
+	at org.eclipse.buildship.core.internal.operation.DefaultToolingApiOperationManager$WorkspaceRunnableAdapter.run(DefaultToolingApiOperationManager.java:58)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.buildship.core.internal.operation.DefaultToolingApiOperationManager.run(DefaultToolingApiOperationManager.java:39)
+	at org.eclipse.buildship.core.internal.DefaultGradleBuild.withConnection(DefaultGradleBuild.java:122)
+	at org.eclipse.buildship.core.internal.workspace.DefaultModelProvider.lambda$fetchEclipseProjectAndRunSyncTasks$5(DefaultModelProvider.java:75)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.buildship.core.internal.workspace.DefaultModelProvider.getFromCache(DefaultModelProvider.java:98)
+	at org.eclipse.buildship.core.internal.workspace.DefaultModelProvider.executeOperation(DefaultModelProvider.java:90)
+	at org.eclipse.buildship.core.internal.workspace.DefaultModelProvider.fetchEclipseProjectAndRunSyncTasks(DefaultModelProvider.java:72)
+	at org.eclipse.buildship.core.internal.DefaultGradleBuild$SynchronizeOperation.runInToolingApi(DefaultGradleBuild.java:226)
+	at org.eclipse.buildship.core.internal.operation.DefaultToolingApiOperationManager$WorkspaceRunnableAdapter.run(DefaultToolingApiOperationManager.java:58)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.buildship.core.internal.operation.DefaultToolingApiOperationManager.run(DefaultToolingApiOperationManager.java:39)
+	at org.eclipse.buildship.core.internal.DefaultGradleBuild$SynchronizeOperation.run(DefaultGradleBuild.java:192)
+	at org.eclipse.buildship.core.internal.DefaultGradleBuild.synchronize(DefaultGradleBuild.java:100)
+	at org.eclipse.buildship.core.internal.workspace.SynchronizationJob.runInToolingApi(SynchronizationJob.java:64)
+	at org.eclipse.buildship.core.internal.workspace.SynchronizationJob.runInToolingApi(SynchronizationJob.java:30)
+	at org.eclipse.buildship.core.internal.operation.ToolingApiJob$1.runInToolingApi(ToolingApiJob.java:54)
+	at org.eclipse.buildship.core.internal.operation.DefaultToolingApiOperationManager$WorkspaceRunnableAdapter.run(DefaultToolingApiOperationManager.java:58)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.buildship.core.internal.operation.DefaultToolingApiOperationManager.run(DefaultToolingApiOperationManager.java:39)
+	at org.eclipse.buildship.core.internal.operation.ToolingApiJob.run(ToolingApiJob.java:65)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.gradle.internal.exceptions.LocationAwareException: Initialization script 'C:\Users\Assus\AppData\Roaming\Code\User\globalStorage\redhat.java\1.32.0\config_win\org.eclipse.osgi\56\0\.cp\gradle\init\init.gradle'
+Could not compile initialization script 'C:\Users\Assus\AppData\Roaming\Code\User\globalStorage\redhat.java\1.32.0\config_win\org.eclipse.osgi\56\0\.cp\gradle\init\init.gradle'.
+	at org.gradle.initialization.exception.DefaultExceptionAnalyser.transform(DefaultExceptionAnalyser.java:103)
+	at org.gradle.initialization.exception.DefaultExceptionAnalyser.collectFailures(DefaultExceptionAnalyser.java:67)
+	at org.gradle.initialization.exception.MultipleBuildFailuresExceptionAnalyser.transform(MultipleBuildFailuresExceptionAnalyser.java:48)
+	at org.gradle.initialization.exception.StackTraceSanitizingExceptionAnalyser.transform(StackTraceSanitizingExceptionAnalyser.java:30)
+	at org.gradle.internal.build.DefaultBuildLifecycleController.lambda$withModelOrThrow$5(DefaultBuildLifecycleController.java:145)
+	at org.gradle.internal.build.DefaultBuildLifecycleController.withModel(DefaultBuildLifecycleController.java:157)
+	at org.gradle.internal.build.DefaultBuildLifecycleController.withModelOrThrow(DefaultBuildLifecycleController.java:140)
+	at org.gradle.internal.build.DefaultBuildLifecycleController.prepareToScheduleTasks(DefaultBuildLifecycleController.java:102)
+	at org.gradle.internal.buildtree.DefaultBuildTreeWorkPreparer.scheduleRequestedTasks(DefaultBuildTreeWorkPreparer.java:33)
+	at org.gradle.internal.buildtree.DefaultBuildTreeLifecycleController.lambda$doScheduleAndRunTasks$1(DefaultBuildTreeLifecycleController.java:83)
+	at org.gradle.composite.internal.DefaultIncludedBuildTaskGraph.withNewTaskGraph(DefaultIncludedBuildTaskGraph.java:94)
+	at org.gradle.internal.buildtree.DefaultBuildTreeLifecycleController.doScheduleAndRunTasks(DefaultBuildTreeLifecycleController.java:82)
+	at org.gradle.internal.buildtree.DefaultBuildTreeLifecycleController.lambda$fromBuildModel$0(DefaultBuildTreeLifecycleController.java:71)
+	at org.gradle.internal.buildtree.DefaultBuildTreeLifecycleController.runBuild(DefaultBuildTreeLifecycleController.java:104)
+	at org.gradle.internal.buildtree.DefaultBuildTreeLifecycleController.fromBuildModel(DefaultBuildTreeLifecycleController.java:69)
+	at org.gradle.tooling.internal.provider.runner.AbstractClientProvidedBuildActionRunner.runClientAction(AbstractClientProvidedBuildActionRunner.java:56)
+	at org.gradle.tooling.internal.provider.runner.ClientProvidedPhasedActionRunner.run(ClientProvidedPhasedActionRunner.java:53)
+	at org.gradle.launcher.exec.ChainingBuildActionRunner.run(ChainingBuildActionRunner.java:35)
+	at org.gradle.internal.buildtree.ProblemReportingBuildActionRunner.run(ProblemReportingBuildActionRunner.java:47)
+	at org.gradle.launcher.exec.BuildOutcomeReportingBuildActionRunner.run(BuildOutcomeReportingBuildActionRunner.java:69)
+	at org.gradle.tooling.internal.provider.FileSystemWatchingBuildActionRunner.run(FileSystemWatchingBuildActionRunner.java:91)
+	at org.gradle.launcher.exec.BuildCompletionNotifyingBuildActionRunner.run(BuildCompletionNotifyingBuildActionRunner.java:41)
+	at org.gradle.launcher.exec.RootBuildLifecycleBuildActionExecutor.lambda$execute$0(RootBuildLifecycleBuildActionExecutor.java:40)
+	at org.gradle.composite.internal.DefaultRootBuildState.run(DefaultRootBuildState.java:154)
+	at org.gradle.launcher.exec.RootBuildLifecycleBuildActionExecutor.execute(RootBuildLifecycleBuildActionExecutor.java:40)
+	at org.gradle.internal.buildtree.DefaultBuildTreeContext.execute(DefaultBuildTreeContext.java:40)
+	at org.gradle.launcher.exec.BuildTreeLifecycleBuildActionExecutor.lambda$execute$0(BuildTreeLifecycleBuildActionExecutor.java:56)
+	at org.gradle.internal.buildtree.BuildTreeState.run(BuildTreeState.java:53)
+	at org.gradle.launcher.exec.BuildTreeLifecycleBuildActionExecutor.execute(BuildTreeLifecycleBuildActionExecutor.java:56)
+	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionExecutor$3.call(RunAsBuildOperationBuildActionExecutor.java:61)
+	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionExecutor$3.call(RunAsBuildOperationBuildActionExecutor.java:57)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:200)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:195)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:75)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:153)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:62)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.lambda$call$2(DefaultBuildOperationExecutor.java:79)
+	at org.gradle.internal.operations.UnmanagedBuildOperationWrapper.callWithUnmanagedSupport(UnmanagedBuildOperationWrapper.java:54)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.call(DefaultBuildOperationExecutor.java:79)
+	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionExecutor.execute(RunAsBuildOperationBuildActionExecutor.java:57)
+	at org.gradle.launcher.exec.RunAsWorkerThreadBuildActionExecutor.lambda$execute$0(RunAsWorkerThreadBuildActionExecutor.java:38)
+	at org.gradle.internal.work.DefaultWorkerLeaseService.withLocks(DefaultWorkerLeaseService.java:211)
+	at org.gradle.launcher.exec.RunAsWorkerThreadBuildActionExecutor.execute(RunAsWorkerThreadBuildActionExecutor.java:38)
+	at org.gradle.tooling.internal.provider.ContinuousBuildActionExecutor.execute(ContinuousBuildActionExecutor.java:103)
+	at org.gradle.tooling.internal.provider.SubscribableBuildActionExecutor.execute(SubscribableBuildActionExecutor.java:64)
+	at org.gradle.internal.session.DefaultBuildSessionContext.execute(DefaultBuildSessionContext.java:46)
+	at org.gradle.tooling.internal.provider.BuildSessionLifecycleBuildActionExecuter.lambda$execute$0(BuildSessionLifecycleBuildActionExecuter.java:56)
+	at org.gradle.internal.session.BuildSessionState.run(BuildSessionState.java:69)
+	at org.gradle.tooling.internal.provider.BuildSessionLifecycleBuildActionExecuter.execute(BuildSessionLifecycleBuildActionExecuter.java:55)
+	at org.gradle.tooling.internal.provider.BuildSessionLifecycleBuildActionExecuter.execute(BuildSessionLifecycleBuildActionExecuter.java:37)
+	at org.gradle.tooling.internal.provider.GradleThreadBuildActionExecuter.execute(GradleThreadBuildActionExecuter.java:36)
+	at org.gradle.tooling.internal.provider.GradleThreadBuildActionExecuter.execute(GradleThreadBuildActionExecuter.java:25)
+	at org.gradle.tooling.internal.provider.StartParamsValidatingActionExecuter.execute(StartParamsValidatingActionExecuter.java:63)
+	at org.gradle.tooling.internal.provider.StartParamsValidatingActionExecuter.execute(StartParamsValidatingActionExecuter.java:31)
+	at org.gradle.tooling.internal.provider.SessionFailureReportingActionExecuter.execute(SessionFailureReportingActionExecuter.java:58)
+	at org.gradle.tooling.internal.provider.SessionFailureReportingActionExecuter.execute(SessionFailureReportingActionExecuter.java:42)
+	at org.gradle.tooling.internal.provider.SetupLoggingActionExecuter.execute(SetupLoggingActionExecuter.java:47)
+	at org.gradle.tooling.internal.provider.SetupLoggingActionExecuter.execute(SetupLoggingActionExecuter.java:31)
+	at org.gradle.launcher.daemon.server.exec.ExecuteBuild.doBuild(ExecuteBuild.java:65)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:37)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.WatchForDisconnection.execute(WatchForDisconnection.java:39)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.ResetDeprecationLogger.execute(ResetDeprecationLogger.java:29)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.RequestStopIfSingleUsedDaemon.execute(RequestStopIfSingleUsedDaemon.java:35)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput$2.create(ForwardClientInput.java:78)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput$2.create(ForwardClientInput.java:75)
+	at org.gradle.util.internal.Swapper.swap(Swapper.java:38)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput.execute(ForwardClientInput.java:75)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.LogAndCheckHealth.execute(LogAndCheckHealth.java:55)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.LogToClient.doBuild(LogToClient.java:63)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:37)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.EstablishBuildEnvironment.doBuild(EstablishBuildEnvironment.java:84)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:37)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.StartBuildOrRespondWithBusy$1.run(StartBuildOrRespondWithBusy.java:52)
+	at org.gradle.launcher.daemon.server.DaemonStateCoordinator$1.run(DaemonStateCoordinator.java:297)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:61)
+Caused by: org.gradle.groovy.scripts.ScriptCompilationException: Could not compile initialization script 'C:\Users\Assus\AppData\Roaming\Code\User\globalStorage\redhat.java\1.32.0\config_win\org.eclipse.osgi\56\0\.cp\gradle\init\init.gradle'.
+	at org.gradle.groovy.scripts.internal.DefaultScriptCompilationHandler.wrapCompilationFailure(DefaultScriptCompilationHandler.java:192)
+	at org.gradle.groovy.scripts.internal.DefaultScriptCompilationHandler.compileScript(DefaultScriptCompilationHandler.java:141)
+	at org.gradle.groovy.scripts.internal.DefaultScriptCompilationHandler.compileToDir(DefaultScriptCompilationHandler.java:95)
+	at org.gradle.groovy.scripts.internal.BuildOperationBackedScriptCompilationHandler$2.run(BuildOperationBackedScriptCompilationHandler.java:54)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:29)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:26)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:75)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:153)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:56)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.lambda$run$1(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.internal.operations.UnmanagedBuildOperationWrapper.runWithUnmanagedSupport(UnmanagedBuildOperationWrapper.java:45)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.groovy.scripts.internal.BuildOperationBackedScriptCompilationHandler.compileToDir(BuildOperationBackedScriptCompilationHandler.java:51)
+	at org.gradle.groovy.scripts.internal.FileCacheBackedScriptClassCompiler$CompileToCrossBuildCacheAction.execute(FileCacheBackedScriptClassCompiler.java:189)
+	at org.gradle.groovy.scripts.internal.FileCacheBackedScriptClassCompiler$CompileToCrossBuildCacheAction.execute(FileCacheBackedScriptClassCompiler.java:169)
+	at org.gradle.groovy.scripts.internal.FileCacheBackedScriptClassCompiler$ProgressReportingInitializer.execute(FileCacheBackedScriptClassCompiler.java:210)
+	at org.gradle.groovy.scripts.internal.FileCacheBackedScriptClassCompiler$ProgressReportingInitializer.execute(FileCacheBackedScriptClassCompiler.java:193)
+	at org.gradle.cache.internal.DefaultPersistentDirectoryCache$Initializer.initialize(DefaultPersistentDirectoryCache.java:100)
+	at org.gradle.cache.internal.FixedSharedModeCrossProcessCacheAccess$1.run(FixedSharedModeCrossProcessCacheAccess.java:86)
+	at org.gradle.cache.internal.DefaultFileLockManager$DefaultFileLock.doWriteAction(DefaultFileLockManager.java:216)
+	at org.gradle.cache.internal.DefaultFileLockManager$DefaultFileLock.writeFile(DefaultFileLockManager.java:206)
+	at org.gradle.cache.internal.FixedSharedModeCrossProcessCacheAccess.open(FixedSharedModeCrossProcessCacheAccess.java:83)
+	at org.gradle.cache.internal.DefaultCacheAccess.open(DefaultCacheAccess.java:139)
+	at org.gradle.cache.internal.DefaultPersistentDirectoryStore.open(DefaultPersistentDirectoryStore.java:89)
+	at org.gradle.cache.internal.DefaultPersistentDirectoryStore.open(DefaultPersistentDirectoryStore.java:43)
+	at org.gradle.cache.internal.DefaultCacheFactory.doOpen(DefaultCacheFactory.java:103)
+	at org.gradle.cache.internal.DefaultCacheFactory.open(DefaultCacheFactory.java:68)
+	at org.gradle.cache.internal.DefaultCacheRepository$PersistentCacheBuilder.open(DefaultCacheRepository.java:126)
+	at org.gradle.groovy.scripts.internal.FileCacheBackedScriptClassCompiler.compile(FileCacheBackedScriptClassCompiler.java:115)
+	at org.gradle.groovy.scripts.internal.CrossBuildInMemoryCachingScriptClassCache.getOrCompile(CrossBuildInMemoryCachingScriptClassCache.java:50)
+	at org.gradle.groovy.scripts.internal.BuildScopeInMemoryCachingScriptClassCompiler.compile(BuildScopeInMemoryCachingScriptClassCompiler.java:50)
+	at org.gradle.groovy.scripts.DefaultScriptCompilerFactory$ScriptCompilerImpl.compile(DefaultScriptCompilerFactory.java:49)
+	at org.gradle.configuration.DefaultScriptPluginFactory$ScriptPluginImpl.apply(DefaultScriptPluginFactory.java:125)
+	at org.gradle.configuration.BuildOperationScriptPlugin$1.run(BuildOperationScriptPlugin.java:65)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:29)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:26)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:75)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:153)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:56)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.lambda$run$1(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.internal.operations.UnmanagedBuildOperationWrapper.runWithUnmanagedSupport(UnmanagedBuildOperationWrapper.java:45)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.configuration.BuildOperationScriptPlugin.lambda$apply$0(BuildOperationScriptPlugin.java:62)
+	at org.gradle.configuration.internal.DefaultUserCodeApplicationContext.apply(DefaultUserCodeApplicationContext.java:44)
+	at org.gradle.configuration.BuildOperationScriptPlugin.apply(BuildOperationScriptPlugin.java:62)
+	at org.gradle.configuration.DefaultInitScriptProcessor.process(DefaultInitScriptProcessor.java:50)
+	at org.gradle.initialization.InitScriptHandler$1.run(InitScriptHandler.java:56)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:29)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:26)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:75)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:153)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:56)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.lambda$run$1(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.internal.operations.UnmanagedBuildOperationWrapper.runWithUnmanagedSupport(UnmanagedBuildOperationWrapper.java:45)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.initialization.InitScriptHandler.executeScripts(InitScriptHandler.java:51)
+	at org.gradle.initialization.InitScriptHandlingSettingsLoader.findAndLoadSettings(InitScriptHandlingSettingsLoader.java:33)
+	at org.gradle.initialization.GradlePropertiesHandlingSettingsLoader.findAndLoadSettings(GradlePropertiesHandlingSettingsLoader.java:39)
+	at org.gradle.initialization.DefaultSettingsPreparer.prepareSettings(DefaultSettingsPreparer.java:31)
+	at org.gradle.initialization.BuildOperationFiringSettingsPreparer$LoadBuild.doLoadBuild(BuildOperationFiringSettingsPreparer.java:62)
+	at org.gradle.initialization.BuildOperationFiringSettingsPreparer$LoadBuild.run(BuildOperationFiringSettingsPreparer.java:57)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:29)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:26)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:75)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:153)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:56)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.lambda$run$1(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.internal.operations.UnmanagedBuildOperationWrapper.runWithUnmanagedSupport(UnmanagedBuildOperationWrapper.java:45)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.initialization.BuildOperationFiringSettingsPreparer.prepareSettings(BuildOperationFiringSettingsPreparer.java:45)
+	at org.gradle.initialization.VintageBuildModelController.prepareSettings(VintageBuildModelController.java:90)
+	at org.gradle.initialization.VintageBuildModelController.doBuildStages(VintageBuildModelController.java:73)
+	at org.gradle.initialization.VintageBuildModelController.prepareToScheduleTasks(VintageBuildModelController.java:64)
+	at org.gradle.internal.build.DefaultBuildLifecycleController.lambda$prepareToScheduleTasks$0(DefaultBuildLifecycleController.java:104)
+	at org.gradle.internal.build.DefaultBuildLifecycleController.lambda$withModelOrThrow$5(DefaultBuildLifecycleController.java:142)
+	... 82 more
+Caused by: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+General error during conversion: Unsupported class file major version 65
+
+java.lang.IllegalArgumentException: Unsupported class file major version 65
+	at groovyjarjarasm.asm.ClassReader.<init>(ClassReader.java:196)
+	at groovyjarjarasm.asm.ClassReader.<init>(ClassReader.java:177)
+	at groovyjarjarasm.asm.ClassReader.<init>(ClassReader.java:163)
+	at groovyjarjarasm.asm.ClassReader.<init>(ClassReader.java:284)
+	at org.codehaus.groovy.ast.decompiled.AsmDecompiler.parseClass(AsmDecompiler.java:81)
+	at org.codehaus.groovy.control.ClassNodeResolver.findDecompiled(ClassNodeResolver.java:251)
+	at org.codehaus.groovy.control.ClassNodeResolver.tryAsLoaderClassOrScript(ClassNodeResolver.java:189)
+	at org.codehaus.groovy.control.ClassNodeResolver.findClassNode(ClassNodeResolver.java:169)
+	at org.codehaus.groovy.control.ClassNodeResolver.resolveName(ClassNodeResolver.java:125)
+	at org.codehaus.groovy.ast.decompiled.AsmReferenceResolver.resolveClassNullable(AsmReferenceResolver.java:57)
+	at org.codehaus.groovy.ast.decompiled.AsmReferenceResolver.resolveClass(AsmReferenceResolver.java:44)
+	at org.codehaus.groovy.ast.decompiled.AsmReferenceResolver.resolveNonArrayType(AsmReferenceResolver.java:79)
+	at org.codehaus.groovy.ast.decompiled.AsmReferenceResolver.resolveType(AsmReferenceResolver.java:70)
+	at org.codehaus.groovy.ast.decompiled.MemberSignatureParser.createMethodNode(MemberSignatureParser.java:57)
+	at org.codehaus.groovy.ast.decompiled.DecompiledClassNode.lambda$createMethodNode$1(DecompiledClassNode.java:230)
+	at org.codehaus.groovy.ast.decompiled.DecompiledClassNode.createMethodNode(DecompiledClassNode.java:236)
+	at org.codehaus.groovy.ast.decompiled.DecompiledClassNode.lazyInitMembers(DecompiledClassNode.java:203)
+	at org.codehaus.groovy.ast.decompiled.DecompiledClassNode.getDeclaredMethods(DecompiledClassNode.java:122)
+	at org.codehaus.groovy.ast.ClassNode.tryFindPossibleMethod(ClassNode.java:1283)
+	at org.codehaus.groovy.control.StaticImportVisitor.transformMethodCallExpression(StaticImportVisitor.java:251)
+	at org.codehaus.groovy.control.StaticImportVisitor.transform(StaticImportVisitor.java:133)
+	at org.codehaus.groovy.ast.ClassCodeExpressionTransformer.visitExpressionStatement(ClassCodeExpressionTransformer.java:108)
+	at org.codehaus.groovy.ast.stmt.ExpressionStatement.visit(ExpressionStatement.java:40)
+	at org.codehaus.groovy.ast.ClassCodeVisitorSupport.visitClassCodeContainer(ClassCodeVisitorSupport.java:138)
+	at org.codehaus.groovy.ast.ClassCodeVisitorSupport.visitConstructorOrMethod(ClassCodeVisitorSupport.java:111)
+	at org.codehaus.groovy.ast.ClassCodeExpressionTransformer.visitConstructorOrMethod(ClassCodeExpressionTransformer.java:66)
+	at org.codehaus.groovy.control.StaticImportVisitor.visitConstructorOrMethod(StaticImportVisitor.java:108)
+	at org.codehaus.groovy.ast.ClassCodeVisitorSupport.visitConstructor(ClassCodeVisitorSupport.java:101)
+	at org.codehaus.groovy.ast.ClassNode.visitContents(ClassNode.java:1089)
+	at org.codehaus.groovy.ast.ClassCodeVisitorSupport.visitClass(ClassCodeVisitorSupport.java:52)
+	at org.codehaus.groovy.control.CompilationUnit.lambda$addPhaseOperations$3(CompilationUnit.java:209)
+	at org.codehaus.groovy.control.CompilationUnit$IPrimaryClassNodeOperation.doPhaseOperation(CompilationUnit.java:942)
+	at org.codehaus.groovy.control.CompilationUnit.processPhaseOperations(CompilationUnit.java:671)
+	at org.codehaus.groovy.control.CompilationUnit.compile(CompilationUnit.java:635)
+	at groovy.lang.GroovyClassLoader.doParseClass(GroovyClassLoader.java:389)
+	at groovy.lang.GroovyClassLoader.lambda$parseClass$3(GroovyClassLoader.java:332)
+	at org.codehaus.groovy.runtime.memoize.StampedCommonCache.compute(StampedCommonCache.java:163)
+	at org.codehaus.groovy.runtime.memoize.StampedCommonCache.getAndPut(StampedCommonCache.java:154)
+	at groovy.lang.GroovyClassLoader.parseClass(GroovyClassLoader.java:330)
+	at org.gradle.groovy.scripts.internal.DefaultScriptCompilationHandler.compileScript(DefaultScriptCompilationHandler.java:139)
+	at org.gradle.groovy.scripts.internal.DefaultScriptCompilationHandler.compileToDir(DefaultScriptCompilationHandler.java:95)
+	at org.gradle.groovy.scripts.internal.BuildOperationBackedScriptCompilationHandler$2.run(BuildOperationBackedScriptCompilationHandler.java:54)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:29)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:26)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:75)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:153)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:56)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.lambda$run$1(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.internal.operations.UnmanagedBuildOperationWrapper.runWithUnmanagedSupport(UnmanagedBuildOperationWrapper.java:45)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.groovy.scripts.internal.BuildOperationBackedScriptCompilationHandler.compileToDir(BuildOperationBackedScriptCompilationHandler.java:51)
+	at org.gradle.groovy.scripts.internal.FileCacheBackedScriptClassCompiler$CompileToCrossBuildCacheAction.execute(FileCacheBackedScriptClassCompiler.java:189)
+	at org.gradle.groovy.scripts.internal.FileCacheBackedScriptClassCompiler$CompileToCrossBuildCacheAction.execute(FileCacheBackedScriptClassCompiler.java:169)
+	at org.gradle.groovy.scripts.internal.FileCacheBackedScriptClassCompiler$ProgressReportingInitializer.execute(FileCacheBackedScriptClassCompiler.java:210)
+	at org.gradle.groovy.scripts.internal.FileCacheBackedScriptClassCompiler$ProgressReportingInitializer.execute(FileCacheBackedScriptClassCompiler.java:193)
+	at org.gradle.cache.internal.DefaultPersistentDirectoryCache$Initializer.initialize(DefaultPersistentDirectoryCache.java:100)
+	at org.gradle.cache.internal.FixedSharedModeCrossProcessCacheAccess$1.run(FixedSharedModeCrossProcessCacheAccess.java:86)
+	at org.gradle.cache.internal.DefaultFileLockManager$DefaultFileLock.doWriteAction(DefaultFileLockManager.java:216)
+	at org.gradle.cache.internal.DefaultFileLockManager$DefaultFileLock.writeFile(DefaultFileLockManager.java:206)
+	at org.gradle.cache.internal.FixedSharedModeCrossProcessCacheAccess.open(FixedSharedModeCrossProcessCacheAccess.java:83)
+	at org.gradle.cache.internal.DefaultCacheAccess.open(DefaultCacheAccess.java:139)
+	at org.gradle.cache.internal.DefaultPersistentDirectoryStore.open(DefaultPersistentDirectoryStore.java:89)
+	at org.gradle.cache.internal.DefaultPersistentDirectoryStore.open(DefaultPersistentDirectoryStore.java:43)
+	at org.gradle.cache.internal.DefaultCacheFactory.doOpen(DefaultCacheFactory.java:103)
+	at org.gradle.cache.internal.DefaultCacheFactory.open(DefaultCacheFactory.java:68)
+	at org.gradle.cache.internal.DefaultCacheRepository$PersistentCacheBuilder.open(DefaultCacheRepository.java:126)
+	at org.gradle.groovy.scripts.internal.FileCacheBackedScriptClassCompiler.compile(FileCacheBackedScriptClassCompiler.java:115)
+	at org.gradle.groovy.scripts.internal.CrossBuildInMemoryCachingScriptClassCache.getOrCompile(CrossBuildInMemoryCachingScriptClassCache.java:50)
+	at org.gradle.groovy.scripts.internal.BuildScopeInMemoryCachingScriptClassCompiler.compile(BuildScopeInMemoryCachingScriptClassCompiler.java:50)
+	at org.gradle.groovy.scripts.DefaultScriptCompilerFactory$ScriptCompilerImpl.compile(DefaultScriptCompilerFactory.java:49)
+	at org.gradle.configuration.DefaultScriptPluginFactory$ScriptPluginImpl.apply(DefaultScriptPluginFactory.java:125)
+	at org.gradle.configuration.BuildOperationScriptPlugin$1.run(BuildOperationScriptPlugin.java:65)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:29)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:26)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:75)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:153)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:56)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.lambda$run$1(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.internal.operations.UnmanagedBuildOperationWrapper.runWithUnmanagedSupport(UnmanagedBuildOperationWrapper.java:45)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.configuration.BuildOperationScriptPlugin.lambda$apply$0(BuildOperationScriptPlugin.java:62)
+	at org.gradle.configuration.internal.DefaultUserCodeApplicationContext.apply(DefaultUserCodeApplicationContext.java:44)
+	at org.gradle.configuration.BuildOperationScriptPlugin.apply(BuildOperationScriptPlugin.java:62)
+	at org.gradle.configuration.DefaultInitScriptProcessor.process(DefaultInitScriptProcessor.java:50)
+	at org.gradle.initialization.InitScriptHandler$1.run(InitScriptHandler.java:56)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:29)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:26)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:75)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:153)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:56)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.lambda$run$1(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.internal.operations.UnmanagedBuildOperationWrapper.runWithUnmanagedSupport(UnmanagedBuildOperationWrapper.java:45)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.initialization.InitScriptHandler.executeScripts(InitScriptHandler.java:51)
+	at org.gradle.initialization.InitScriptHandlingSettingsLoader.findAndLoadSettings(InitScriptHandlingSettingsLoader.java:33)
+	at org.gradle.initialization.GradlePropertiesHandlingSettingsLoader.findAndLoadSettings(GradlePropertiesHandlingSettingsLoader.java:39)
+	at org.gradle.initialization.DefaultSettingsPreparer.prepareSettings(DefaultSettingsPreparer.java:31)
+	at org.gradle.initialization.BuildOperationFiringSettingsPreparer$LoadBuild.doLoadBuild(BuildOperationFiringSettingsPreparer.java:62)
+	at org.gradle.initialization.BuildOperationFiringSettingsPreparer$LoadBuild.run(BuildOperationFiringSettingsPreparer.java:57)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:29)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:26)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:75)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:153)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:56)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.lambda$run$1(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.internal.operations.UnmanagedBuildOperationWrapper.runWithUnmanagedSupport(UnmanagedBuildOperationWrapper.java:45)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.initialization.BuildOperationFiringSettingsPreparer.prepareSettings(BuildOperationFiringSettingsPreparer.java:45)
+	at org.gradle.initialization.VintageBuildModelController.prepareSettings(VintageBuildModelController.java:90)
+	at org.gradle.initialization.VintageBuildModelController.doBuildStages(VintageBuildModelController.java:73)
+	at org.gradle.initialization.VintageBuildModelController.prepareToScheduleTasks(VintageBuildModelController.java:64)
+	at org.gradle.internal.build.DefaultBuildLifecycleController.lambda$prepareToScheduleTasks$0(DefaultBuildLifecycleController.java:104)
+	at org.gradle.internal.build.DefaultBuildLifecycleController.lambda$withModelOrThrow$5(DefaultBuildLifecycleController.java:142)
+	at org.gradle.internal.build.DefaultBuildLifecycleController.withModel(DefaultBuildLifecycleController.java:157)
+	at org.gradle.internal.build.DefaultBuildLifecycleController.withModelOrThrow(DefaultBuildLifecycleController.java:140)
+	at org.gradle.internal.build.DefaultBuildLifecycleController.prepareToScheduleTasks(DefaultBuildLifecycleController.java:102)
+	at org.gradle.internal.buildtree.DefaultBuildTreeWorkPreparer.scheduleRequestedTasks(DefaultBuildTreeWorkPreparer.java:33)
+	at org.gradle.internal.buildtree.DefaultBuildTreeLifecycleController.lambda$doScheduleAndRunTasks$1(DefaultBuildTreeLifecycleController.java:83)
+	at org.gradle.composite.internal.DefaultIncludedBuildTaskGraph.withNewTaskGraph(DefaultIncludedBuildTaskGraph.java:94)
+	at org.gradle.internal.buildtree.DefaultBuildTreeLifecycleController.doScheduleAndRunTasks(DefaultBuildTreeLifecycleController.java:82)
+	at org.gradle.internal.buildtree.DefaultBuildTreeLifecycleController.lambda$fromBuildModel$0(DefaultBuildTreeLifecycleController.java:71)
+	at org.gradle.internal.buildtree.DefaultBuildTreeLifecycleController.runBuild(DefaultBuildTreeLifecycleController.java:104)
+	at org.gradle.internal.buildtree.DefaultBuildTreeLifecycleController.fromBuildModel(DefaultBuildTreeLifecycleController.java:69)
+	at org.gradle.tooling.internal.provider.runner.AbstractClientProvidedBuildActionRunner.runClientAction(AbstractClientProvidedBuildActionRunner.java:56)
+	at org.gradle.tooling.internal.provider.runner.ClientProvidedPhasedActionRunner.run(ClientProvidedPhasedActionRunner.java:53)
+	at org.gradle.launcher.exec.ChainingBuildActionRunner.run(ChainingBuildActionRunner.java:35)
+	at org.gradle.internal.buildtree.ProblemReportingBuildActionRunner.run(ProblemReportingBuildActionRunner.java:47)
+	at org.gradle.launcher.exec.BuildOutcomeReportingBuildActionRunner.run(BuildOutcomeReportingBuildActionRunner.java:69)
+	at org.gradle.tooling.internal.provider.FileSystemWatchingBuildActionRunner.run(FileSystemWatchingBuildActionRunner.java:91)
+	at org.gradle.launcher.exec.BuildCompletionNotifyingBuildActionRunner.run(BuildCompletionNotifyingBuildActionRunner.java:41)
+	at org.gradle.launcher.exec.RootBuildLifecycleBuildActionExecutor.lambda$execute$0(RootBuildLifecycleBuildActionExecutor.java:40)
+	at org.gradle.composite.internal.DefaultRootBuildState.run(DefaultRootBuildState.java:154)
+	at org.gradle.launcher.exec.RootBuildLifecycleBuildActionExecutor.execute(RootBuildLifecycleBuildActionExecutor.java:40)
+	at org.gradle.internal.buildtree.DefaultBuildTreeContext.execute(DefaultBuildTreeContext.java:40)
+	at org.gradle.launcher.exec.BuildTreeLifecycleBuildActionExecutor.lambda$execute$0(BuildTreeLifecycleBuildActionExecutor.java:56)
+	at org.gradle.internal.buildtree.BuildTreeState.run(BuildTreeState.java:53)
+	at org.gradle.launcher.exec.BuildTreeLifecycleBuildActionExecutor.execute(BuildTreeLifecycleBuildActionExecutor.java:56)
+	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionExecutor$3.call(RunAsBuildOperationBuildActionExecutor.java:61)
+	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionExecutor$3.call(RunAsBuildOperationBuildActionExecutor.java:57)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:200)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:195)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:75)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:153)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:62)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.lambda$call$2(DefaultBuildOperationExecutor.java:79)
+	at org.gradle.internal.operations.UnmanagedBuildOperationWrapper.callWithUnmanagedSupport(UnmanagedBuildOperationWrapper.java:54)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.call(DefaultBuildOperationExecutor.java:79)
+	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionExecutor.execute(RunAsBuildOperationBuildActionExecutor.java:57)
+	at org.gradle.launcher.exec.RunAsWorkerThreadBuildActionExecutor.lambda$execute$0(RunAsWorkerThreadBuildActionExecutor.java:38)
+	at org.gradle.internal.work.DefaultWorkerLeaseService.withLocks(DefaultWorkerLeaseService.java:211)
+	at org.gradle.launcher.exec.RunAsWorkerThreadBuildActionExecutor.execute(RunAsWorkerThreadBuildActionExecutor.java:38)
+	at org.gradle.tooling.internal.provider.ContinuousBuildActionExecutor.execute(ContinuousBuildActionExecutor.java:103)
+	at org.gradle.tooling.internal.provider.SubscribableBuildActionExecutor.execute(SubscribableBuildActionExecutor.java:64)
+	at org.gradle.internal.session.DefaultBuildSessionContext.execute(DefaultBuildSessionContext.java:46)
+	at org.gradle.tooling.internal.provider.BuildSessionLifecycleBuildActionExecuter.lambda$execute$0(BuildSessionLifecycleBuildActionExecuter.java:56)
+	at org.gradle.internal.session.BuildSessionState.run(BuildSessionState.java:69)
+	at org.gradle.tooling.internal.provider.BuildSessionLifecycleBuildActionExecuter.execute(BuildSessionLifecycleBuildActionExecuter.java:55)
+	at org.gradle.tooling.internal.provider.BuildSessionLifecycleBuildActionExecuter.execute(BuildSessionLifecycleBuildActionExecuter.java:37)
+	at org.gradle.tooling.internal.provider.GradleThreadBuildActionExecuter.execute(GradleThreadBuildActionExecuter.java:36)
+	at org.gradle.tooling.internal.provider.GradleThreadBuildActionExecuter.execute(GradleThreadBuildActionExecuter.java:25)
+	at org.gradle.tooling.internal.provider.StartParamsValidatingActionExecuter.execute(StartParamsValidatingActionExecuter.java:63)
+	at org.gradle.tooling.internal.provider.StartParamsValidatingActionExecuter.execute(StartParamsValidatingActionExecuter.java:31)
+	at org.gradle.tooling.internal.provider.SessionFailureReportingActionExecuter.execute(SessionFailureReportingActionExecuter.java:58)
+	at org.gradle.tooling.internal.provider.SessionFailureReportingActionExecuter.execute(SessionFailureReportingActionExecuter.java:42)
+	at org.gradle.tooling.internal.provider.SetupLoggingActionExecuter.execute(SetupLoggingActionExecuter.java:47)
+	at org.gradle.tooling.internal.provider.SetupLoggingActionExecuter.execute(SetupLoggingActionExecuter.java:31)
+	at org.gradle.launcher.daemon.server.exec.ExecuteBuild.doBuild(ExecuteBuild.java:65)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:37)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.WatchForDisconnection.execute(WatchForDisconnection.java:39)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.ResetDeprecationLogger.execute(ResetDeprecationLogger.java:29)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.RequestStopIfSingleUsedDaemon.execute(RequestStopIfSingleUsedDaemon.java:35)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput$2.create(ForwardClientInput.java:78)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput$2.create(ForwardClientInput.java:75)
+	at org.gradle.util.internal.Swapper.swap(Swapper.java:38)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput.execute(ForwardClientInput.java:75)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.LogAndCheckHealth.execute(LogAndCheckHealth.java:55)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.LogToClient.doBuild(LogToClient.java:63)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:37)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.EstablishBuildEnvironment.doBuild(EstablishBuildEnvironment.java:84)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:37)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.StartBuildOrRespondWithBusy$1.run(StartBuildOrRespondWithBusy.java:52)
+	at org.gradle.launcher.daemon.server.DaemonStateCoordinator$1.run(DaemonStateCoordinator.java:297)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+1 error
+
+	at org.gradle.groovy.scripts.internal.DefaultScriptCompilationHandler.compileScript(DefaultScriptCompilationHandler.java:139)
+	... 163 more
+
+!ENTRY org.eclipse.buildship.core 2 2 2024-08-04 18:02:25.954
+!MESSAGE Synchronize Gradle projects with workspace failed due to an error in the referenced Gradle build.
+!STACK 0
+org.gradle.tooling.BuildException: Could not run phased build action using connection to Gradle distribution 'https://services.gradle.org/distributions/gradle-7.2-bin.zip'.
+	at org.gradle.tooling.internal.consumer.ExceptionTransformer.transform(ExceptionTransformer.java:51)
+	at org.gradle.tooling.internal.consumer.ExceptionTransformer.transform(ExceptionTransformer.java:29)
+	at org.gradle.tooling.internal.consumer.ResultHandlerAdapter.onFailure(ResultHandlerAdapter.java:43)
+	at org.gradle.tooling.internal.consumer.async.DefaultAsyncConsumerActionExecutor$1$1.run(DefaultAsyncConsumerActionExecutor.java:69)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:56)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+	at org.gradle.tooling.internal.consumer.BlockingResultHandler.getResult(BlockingResultHandler.java:46)
+	at org.gradle.tooling.internal.consumer.DefaultPhasedBuildActionExecuter.run(DefaultPhasedBuildActionExecuter.java:63)
+	at org.gradle.tooling.internal.consumer.DefaultPhasedBuildActionExecuter.run(DefaultPhasedBuildActionExecuter.java:31)
+	at org.eclipse.buildship.core.internal.workspace.EclipseModelUtils.runPhasedModelQuery(EclipseModelUtils.java:111)
+	at org.eclipse.buildship.core.internal.workspace.EclipseModelUtils.runTasksAndQueryCompositeModelWithRuntimInfo(EclipseModelUtils.java:86)
+	at org.eclipse.buildship.core.internal.workspace.EclipseModelUtils.runTasksAndQueryModels(EclipseModelUtils.java:60)
+	at org.eclipse.buildship.core.internal.workspace.DefaultModelProvider.lambda$null$4(DefaultModelProvider.java:75)
+	at org.eclipse.buildship.core.internal.DefaultGradleBuild$GradleConnectionOperation.runInToolingApi(DefaultGradleBuild.java:329)
+	at org.eclipse.buildship.core.internal.operation.DefaultToolingApiOperationManager$WorkspaceRunnableAdapter.run(DefaultToolingApiOperationManager.java:58)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.buildship.core.internal.operation.DefaultToolingApiOperationManager.run(DefaultToolingApiOperationManager.java:39)
+	at org.eclipse.buildship.core.internal.DefaultGradleBuild.withConnection(DefaultGradleBuild.java:122)
+	at org.eclipse.buildship.core.internal.workspace.DefaultModelProvider.lambda$fetchEclipseProjectAndRunSyncTasks$5(DefaultModelProvider.java:75)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.buildship.core.internal.workspace.DefaultModelProvider.getFromCache(DefaultModelProvider.java:98)
+	at org.eclipse.buildship.core.internal.workspace.DefaultModelProvider.executeOperation(DefaultModelProvider.java:90)
+	at org.eclipse.buildship.core.internal.workspace.DefaultModelProvider.fetchEclipseProjectAndRunSyncTasks(DefaultModelProvider.java:72)
+	at org.eclipse.buildship.core.internal.DefaultGradleBuild$SynchronizeOperation.runInToolingApi(DefaultGradleBuild.java:226)
+	at org.eclipse.buildship.core.internal.operation.DefaultToolingApiOperationManager$WorkspaceRunnableAdapter.run(DefaultToolingApiOperationManager.java:58)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.buildship.core.internal.operation.DefaultToolingApiOperationManager.run(DefaultToolingApiOperationManager.java:39)
+	at org.eclipse.buildship.core.internal.DefaultGradleBuild$SynchronizeOperation.run(DefaultGradleBuild.java:192)
+	at org.eclipse.buildship.core.internal.DefaultGradleBuild.synchronize(DefaultGradleBuild.java:100)
+	at org.eclipse.buildship.core.internal.workspace.SynchronizationJob.runInToolingApi(SynchronizationJob.java:64)
+	at org.eclipse.buildship.core.internal.workspace.SynchronizationJob.runInToolingApi(SynchronizationJob.java:30)
+	at org.eclipse.buildship.core.internal.operation.ToolingApiJob$1.runInToolingApi(ToolingApiJob.java:54)
+	at org.eclipse.buildship.core.internal.operation.DefaultToolingApiOperationManager$WorkspaceRunnableAdapter.run(DefaultToolingApiOperationManager.java:58)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.buildship.core.internal.operation.DefaultToolingApiOperationManager.run(DefaultToolingApiOperationManager.java:39)
+	at org.eclipse.buildship.core.internal.operation.ToolingApiJob.run(ToolingApiJob.java:65)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.gradle.internal.exceptions.LocationAwareException: Initialization script 'C:\Users\Assus\AppData\Roaming\Code\User\globalStorage\redhat.java\1.32.0\config_win\org.eclipse.osgi\56\0\.cp\gradle\init\init.gradle'
+Could not compile initialization script 'C:\Users\Assus\AppData\Roaming\Code\User\globalStorage\redhat.java\1.32.0\config_win\org.eclipse.osgi\56\0\.cp\gradle\init\init.gradle'.
+	at org.gradle.initialization.exception.DefaultExceptionAnalyser.transform(DefaultExceptionAnalyser.java:103)
+	at org.gradle.initialization.exception.DefaultExceptionAnalyser.collectFailures(DefaultExceptionAnalyser.java:67)
+	at org.gradle.initialization.exception.MultipleBuildFailuresExceptionAnalyser.transform(MultipleBuildFailuresExceptionAnalyser.java:48)
+	at org.gradle.initialization.exception.StackTraceSanitizingExceptionAnalyser.transform(StackTraceSanitizingExceptionAnalyser.java:30)
+	at org.gradle.internal.build.DefaultBuildLifecycleController.lambda$withModelOrThrow$5(DefaultBuildLifecycleController.java:145)
+	at org.gradle.internal.build.DefaultBuildLifecycleController.withModel(DefaultBuildLifecycleController.java:157)
+	at org.gradle.internal.build.DefaultBuildLifecycleController.withModelOrThrow(DefaultBuildLifecycleController.java:140)
+	at org.gradle.internal.build.DefaultBuildLifecycleController.prepareToScheduleTasks(DefaultBuildLifecycleController.java:102)
+	at org.gradle.internal.buildtree.DefaultBuildTreeWorkPreparer.scheduleRequestedTasks(DefaultBuildTreeWorkPreparer.java:33)
+	at org.gradle.internal.buildtree.DefaultBuildTreeLifecycleController.lambda$doScheduleAndRunTasks$1(DefaultBuildTreeLifecycleController.java:83)
+	at org.gradle.composite.internal.DefaultIncludedBuildTaskGraph.withNewTaskGraph(DefaultIncludedBuildTaskGraph.java:94)
+	at org.gradle.internal.buildtree.DefaultBuildTreeLifecycleController.doScheduleAndRunTasks(DefaultBuildTreeLifecycleController.java:82)
+	at org.gradle.internal.buildtree.DefaultBuildTreeLifecycleController.lambda$fromBuildModel$0(DefaultBuildTreeLifecycleController.java:71)
+	at org.gradle.internal.buildtree.DefaultBuildTreeLifecycleController.runBuild(DefaultBuildTreeLifecycleController.java:104)
+	at org.gradle.internal.buildtree.DefaultBuildTreeLifecycleController.fromBuildModel(DefaultBuildTreeLifecycleController.java:69)
+	at org.gradle.tooling.internal.provider.runner.AbstractClientProvidedBuildActionRunner.runClientAction(AbstractClientProvidedBuildActionRunner.java:56)
+	at org.gradle.tooling.internal.provider.runner.ClientProvidedPhasedActionRunner.run(ClientProvidedPhasedActionRunner.java:53)
+	at org.gradle.launcher.exec.ChainingBuildActionRunner.run(ChainingBuildActionRunner.java:35)
+	at org.gradle.internal.buildtree.ProblemReportingBuildActionRunner.run(ProblemReportingBuildActionRunner.java:47)
+	at org.gradle.launcher.exec.BuildOutcomeReportingBuildActionRunner.run(BuildOutcomeReportingBuildActionRunner.java:69)
+	at org.gradle.tooling.internal.provider.FileSystemWatchingBuildActionRunner.run(FileSystemWatchingBuildActionRunner.java:91)
+	at org.gradle.launcher.exec.BuildCompletionNotifyingBuildActionRunner.run(BuildCompletionNotifyingBuildActionRunner.java:41)
+	at org.gradle.launcher.exec.RootBuildLifecycleBuildActionExecutor.lambda$execute$0(RootBuildLifecycleBuildActionExecutor.java:40)
+	at org.gradle.composite.internal.DefaultRootBuildState.run(DefaultRootBuildState.java:154)
+	at org.gradle.launcher.exec.RootBuildLifecycleBuildActionExecutor.execute(RootBuildLifecycleBuildActionExecutor.java:40)
+	at org.gradle.internal.buildtree.DefaultBuildTreeContext.execute(DefaultBuildTreeContext.java:40)
+	at org.gradle.launcher.exec.BuildTreeLifecycleBuildActionExecutor.lambda$execute$0(BuildTreeLifecycleBuildActionExecutor.java:56)
+	at org.gradle.internal.buildtree.BuildTreeState.run(BuildTreeState.java:53)
+	at org.gradle.launcher.exec.BuildTreeLifecycleBuildActionExecutor.execute(BuildTreeLifecycleBuildActionExecutor.java:56)
+	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionExecutor$3.call(RunAsBuildOperationBuildActionExecutor.java:61)
+	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionExecutor$3.call(RunAsBuildOperationBuildActionExecutor.java:57)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:200)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:195)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:75)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:153)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:62)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.lambda$call$2(DefaultBuildOperationExecutor.java:79)
+	at org.gradle.internal.operations.UnmanagedBuildOperationWrapper.callWithUnmanagedSupport(UnmanagedBuildOperationWrapper.java:54)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.call(DefaultBuildOperationExecutor.java:79)
+	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionExecutor.execute(RunAsBuildOperationBuildActionExecutor.java:57)
+	at org.gradle.launcher.exec.RunAsWorkerThreadBuildActionExecutor.lambda$execute$0(RunAsWorkerThreadBuildActionExecutor.java:38)
+	at org.gradle.internal.work.DefaultWorkerLeaseService.withLocks(DefaultWorkerLeaseService.java:211)
+	at org.gradle.launcher.exec.RunAsWorkerThreadBuildActionExecutor.execute(RunAsWorkerThreadBuildActionExecutor.java:38)
+	at org.gradle.tooling.internal.provider.ContinuousBuildActionExecutor.execute(ContinuousBuildActionExecutor.java:103)
+	at org.gradle.tooling.internal.provider.SubscribableBuildActionExecutor.execute(SubscribableBuildActionExecutor.java:64)
+	at org.gradle.internal.session.DefaultBuildSessionContext.execute(DefaultBuildSessionContext.java:46)
+	at org.gradle.tooling.internal.provider.BuildSessionLifecycleBuildActionExecuter.lambda$execute$0(BuildSessionLifecycleBuildActionExecuter.java:56)
+	at org.gradle.internal.session.BuildSessionState.run(BuildSessionState.java:69)
+	at org.gradle.tooling.internal.provider.BuildSessionLifecycleBuildActionExecuter.execute(BuildSessionLifecycleBuildActionExecuter.java:55)
+	at org.gradle.tooling.internal.provider.BuildSessionLifecycleBuildActionExecuter.execute(BuildSessionLifecycleBuildActionExecuter.java:37)
+	at org.gradle.tooling.internal.provider.GradleThreadBuildActionExecuter.execute(GradleThreadBuildActionExecuter.java:36)
+	at org.gradle.tooling.internal.provider.GradleThreadBuildActionExecuter.execute(GradleThreadBuildActionExecuter.java:25)
+	at org.gradle.tooling.internal.provider.StartParamsValidatingActionExecuter.execute(StartParamsValidatingActionExecuter.java:63)
+	at org.gradle.tooling.internal.provider.StartParamsValidatingActionExecuter.execute(StartParamsValidatingActionExecuter.java:31)
+	at org.gradle.tooling.internal.provider.SessionFailureReportingActionExecuter.execute(SessionFailureReportingActionExecuter.java:58)
+	at org.gradle.tooling.internal.provider.SessionFailureReportingActionExecuter.execute(SessionFailureReportingActionExecuter.java:42)
+	at org.gradle.tooling.internal.provider.SetupLoggingActionExecuter.execute(SetupLoggingActionExecuter.java:47)
+	at org.gradle.tooling.internal.provider.SetupLoggingActionExecuter.execute(SetupLoggingActionExecuter.java:31)
+	at org.gradle.launcher.daemon.server.exec.ExecuteBuild.doBuild(ExecuteBuild.java:65)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:37)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.WatchForDisconnection.execute(WatchForDisconnection.java:39)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.ResetDeprecationLogger.execute(ResetDeprecationLogger.java:29)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.RequestStopIfSingleUsedDaemon.execute(RequestStopIfSingleUsedDaemon.java:35)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput$2.create(ForwardClientInput.java:78)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput$2.create(ForwardClientInput.java:75)
+	at org.gradle.util.internal.Swapper.swap(Swapper.java:38)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput.execute(ForwardClientInput.java:75)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.LogAndCheckHealth.execute(LogAndCheckHealth.java:55)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.LogToClient.doBuild(LogToClient.java:63)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:37)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.EstablishBuildEnvironment.doBuild(EstablishBuildEnvironment.java:84)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:37)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.StartBuildOrRespondWithBusy$1.run(StartBuildOrRespondWithBusy.java:52)
+	at org.gradle.launcher.daemon.server.DaemonStateCoordinator$1.run(DaemonStateCoordinator.java:297)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:61)
+Caused by: org.gradle.groovy.scripts.ScriptCompilationException: Could not compile initialization script 'C:\Users\Assus\AppData\Roaming\Code\User\globalStorage\redhat.java\1.32.0\config_win\org.eclipse.osgi\56\0\.cp\gradle\init\init.gradle'.
+	at org.gradle.groovy.scripts.internal.DefaultScriptCompilationHandler.wrapCompilationFailure(DefaultScriptCompilationHandler.java:192)
+	at org.gradle.groovy.scripts.internal.DefaultScriptCompilationHandler.compileScript(DefaultScriptCompilationHandler.java:141)
+	at org.gradle.groovy.scripts.internal.DefaultScriptCompilationHandler.compileToDir(DefaultScriptCompilationHandler.java:95)
+	at org.gradle.groovy.scripts.internal.BuildOperationBackedScriptCompilationHandler$2.run(BuildOperationBackedScriptCompilationHandler.java:54)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:29)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:26)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:75)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:153)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:56)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.lambda$run$1(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.internal.operations.UnmanagedBuildOperationWrapper.runWithUnmanagedSupport(UnmanagedBuildOperationWrapper.java:45)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.groovy.scripts.internal.BuildOperationBackedScriptCompilationHandler.compileToDir(BuildOperationBackedScriptCompilationHandler.java:51)
+	at org.gradle.groovy.scripts.internal.FileCacheBackedScriptClassCompiler$CompileToCrossBuildCacheAction.execute(FileCacheBackedScriptClassCompiler.java:189)
+	at org.gradle.groovy.scripts.internal.FileCacheBackedScriptClassCompiler$CompileToCrossBuildCacheAction.execute(FileCacheBackedScriptClassCompiler.java:169)
+	at org.gradle.groovy.scripts.internal.FileCacheBackedScriptClassCompiler$ProgressReportingInitializer.execute(FileCacheBackedScriptClassCompiler.java:210)
+	at org.gradle.groovy.scripts.internal.FileCacheBackedScriptClassCompiler$ProgressReportingInitializer.execute(FileCacheBackedScriptClassCompiler.java:193)
+	at org.gradle.cache.internal.DefaultPersistentDirectoryCache$Initializer.initialize(DefaultPersistentDirectoryCache.java:100)
+	at org.gradle.cache.internal.FixedSharedModeCrossProcessCacheAccess$1.run(FixedSharedModeCrossProcessCacheAccess.java:86)
+	at org.gradle.cache.internal.DefaultFileLockManager$DefaultFileLock.doWriteAction(DefaultFileLockManager.java:216)
+	at org.gradle.cache.internal.DefaultFileLockManager$DefaultFileLock.writeFile(DefaultFileLockManager.java:206)
+	at org.gradle.cache.internal.FixedSharedModeCrossProcessCacheAccess.open(FixedSharedModeCrossProcessCacheAccess.java:83)
+	at org.gradle.cache.internal.DefaultCacheAccess.open(DefaultCacheAccess.java:139)
+	at org.gradle.cache.internal.DefaultPersistentDirectoryStore.open(DefaultPersistentDirectoryStore.java:89)
+	at org.gradle.cache.internal.DefaultPersistentDirectoryStore.open(DefaultPersistentDirectoryStore.java:43)
+	at org.gradle.cache.internal.DefaultCacheFactory.doOpen(DefaultCacheFactory.java:103)
+	at org.gradle.cache.internal.DefaultCacheFactory.open(DefaultCacheFactory.java:68)
+	at org.gradle.cache.internal.DefaultCacheRepository$PersistentCacheBuilder.open(DefaultCacheRepository.java:126)
+	at org.gradle.groovy.scripts.internal.FileCacheBackedScriptClassCompiler.compile(FileCacheBackedScriptClassCompiler.java:115)
+	at org.gradle.groovy.scripts.internal.CrossBuildInMemoryCachingScriptClassCache.getOrCompile(CrossBuildInMemoryCachingScriptClassCache.java:50)
+	at org.gradle.groovy.scripts.internal.BuildScopeInMemoryCachingScriptClassCompiler.compile(BuildScopeInMemoryCachingScriptClassCompiler.java:50)
+	at org.gradle.groovy.scripts.DefaultScriptCompilerFactory$ScriptCompilerImpl.compile(DefaultScriptCompilerFactory.java:49)
+	at org.gradle.configuration.DefaultScriptPluginFactory$ScriptPluginImpl.apply(DefaultScriptPluginFactory.java:125)
+	at org.gradle.configuration.BuildOperationScriptPlugin$1.run(BuildOperationScriptPlugin.java:65)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:29)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:26)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:75)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:153)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:56)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.lambda$run$1(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.internal.operations.UnmanagedBuildOperationWrapper.runWithUnmanagedSupport(UnmanagedBuildOperationWrapper.java:45)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.configuration.BuildOperationScriptPlugin.lambda$apply$0(BuildOperationScriptPlugin.java:62)
+	at org.gradle.configuration.internal.DefaultUserCodeApplicationContext.apply(DefaultUserCodeApplicationContext.java:44)
+	at org.gradle.configuration.BuildOperationScriptPlugin.apply(BuildOperationScriptPlugin.java:62)
+	at org.gradle.configuration.DefaultInitScriptProcessor.process(DefaultInitScriptProcessor.java:50)
+	at org.gradle.initialization.InitScriptHandler$1.run(InitScriptHandler.java:56)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:29)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:26)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:75)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:153)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:56)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.lambda$run$1(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.internal.operations.UnmanagedBuildOperationWrapper.runWithUnmanagedSupport(UnmanagedBuildOperationWrapper.java:45)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.initialization.InitScriptHandler.executeScripts(InitScriptHandler.java:51)
+	at org.gradle.initialization.InitScriptHandlingSettingsLoader.findAndLoadSettings(InitScriptHandlingSettingsLoader.java:33)
+	at org.gradle.initialization.GradlePropertiesHandlingSettingsLoader.findAndLoadSettings(GradlePropertiesHandlingSettingsLoader.java:39)
+	at org.gradle.initialization.DefaultSettingsPreparer.prepareSettings(DefaultSettingsPreparer.java:31)
+	at org.gradle.initialization.BuildOperationFiringSettingsPreparer$LoadBuild.doLoadBuild(BuildOperationFiringSettingsPreparer.java:62)
+	at org.gradle.initialization.BuildOperationFiringSettingsPreparer$LoadBuild.run(BuildOperationFiringSettingsPreparer.java:57)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:29)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:26)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:75)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:153)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:56)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.lambda$run$1(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.internal.operations.UnmanagedBuildOperationWrapper.runWithUnmanagedSupport(UnmanagedBuildOperationWrapper.java:45)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.initialization.BuildOperationFiringSettingsPreparer.prepareSettings(BuildOperationFiringSettingsPreparer.java:45)
+	at org.gradle.initialization.VintageBuildModelController.prepareSettings(VintageBuildModelController.java:90)
+	at org.gradle.initialization.VintageBuildModelController.doBuildStages(VintageBuildModelController.java:73)
+	at org.gradle.initialization.VintageBuildModelController.prepareToScheduleTasks(VintageBuildModelController.java:64)
+	at org.gradle.internal.build.DefaultBuildLifecycleController.lambda$prepareToScheduleTasks$0(DefaultBuildLifecycleController.java:104)
+	at org.gradle.internal.build.DefaultBuildLifecycleController.lambda$withModelOrThrow$5(DefaultBuildLifecycleController.java:142)
+	... 82 more
+Caused by: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+General error during conversion: Unsupported class file major version 65
+
+java.lang.IllegalArgumentException: Unsupported class file major version 65
+	at groovyjarjarasm.asm.ClassReader.<init>(ClassReader.java:196)
+	at groovyjarjarasm.asm.ClassReader.<init>(ClassReader.java:177)
+	at groovyjarjarasm.asm.ClassReader.<init>(ClassReader.java:163)
+	at groovyjarjarasm.asm.ClassReader.<init>(ClassReader.java:284)
+	at org.codehaus.groovy.ast.decompiled.AsmDecompiler.parseClass(AsmDecompiler.java:81)
+	at org.codehaus.groovy.control.ClassNodeResolver.findDecompiled(ClassNodeResolver.java:251)
+	at org.codehaus.groovy.control.ClassNodeResolver.tryAsLoaderClassOrScript(ClassNodeResolver.java:189)
+	at org.codehaus.groovy.control.ClassNodeResolver.findClassNode(ClassNodeResolver.java:169)
+	at org.codehaus.groovy.control.ClassNodeResolver.resolveName(ClassNodeResolver.java:125)
+	at org.codehaus.groovy.ast.decompiled.AsmReferenceResolver.resolveClassNullable(AsmReferenceResolver.java:57)
+	at org.codehaus.groovy.ast.decompiled.AsmReferenceResolver.resolveClass(AsmReferenceResolver.java:44)
+	at org.codehaus.groovy.ast.decompiled.AsmReferenceResolver.resolveNonArrayType(AsmReferenceResolver.java:79)
+	at org.codehaus.groovy.ast.decompiled.AsmReferenceResolver.resolveType(AsmReferenceResolver.java:70)
+	at org.codehaus.groovy.ast.decompiled.MemberSignatureParser.createMethodNode(MemberSignatureParser.java:57)
+	at org.codehaus.groovy.ast.decompiled.DecompiledClassNode.lambda$createMethodNode$1(DecompiledClassNode.java:230)
+	at org.codehaus.groovy.ast.decompiled.DecompiledClassNode.createMethodNode(DecompiledClassNode.java:236)
+	at org.codehaus.groovy.ast.decompiled.DecompiledClassNode.lazyInitMembers(DecompiledClassNode.java:203)
+	at org.codehaus.groovy.ast.decompiled.DecompiledClassNode.getDeclaredMethods(DecompiledClassNode.java:122)
+	at org.codehaus.groovy.ast.ClassNode.tryFindPossibleMethod(ClassNode.java:1283)
+	at org.codehaus.groovy.control.StaticImportVisitor.transformMethodCallExpression(StaticImportVisitor.java:251)
+	at org.codehaus.groovy.control.StaticImportVisitor.transform(StaticImportVisitor.java:133)
+	at org.codehaus.groovy.ast.ClassCodeExpressionTransformer.visitExpressionStatement(ClassCodeExpressionTransformer.java:108)
+	at org.codehaus.groovy.ast.stmt.ExpressionStatement.visit(ExpressionStatement.java:40)
+	at org.codehaus.groovy.ast.ClassCodeVisitorSupport.visitClassCodeContainer(ClassCodeVisitorSupport.java:138)
+	at org.codehaus.groovy.ast.ClassCodeVisitorSupport.visitConstructorOrMethod(ClassCodeVisitorSupport.java:111)
+	at org.codehaus.groovy.ast.ClassCodeExpressionTransformer.visitConstructorOrMethod(ClassCodeExpressionTransformer.java:66)
+	at org.codehaus.groovy.control.StaticImportVisitor.visitConstructorOrMethod(StaticImportVisitor.java:108)
+	at org.codehaus.groovy.ast.ClassCodeVisitorSupport.visitConstructor(ClassCodeVisitorSupport.java:101)
+	at org.codehaus.groovy.ast.ClassNode.visitContents(ClassNode.java:1089)
+	at org.codehaus.groovy.ast.ClassCodeVisitorSupport.visitClass(ClassCodeVisitorSupport.java:52)
+	at org.codehaus.groovy.control.CompilationUnit.lambda$addPhaseOperations$3(CompilationUnit.java:209)
+	at org.codehaus.groovy.control.CompilationUnit$IPrimaryClassNodeOperation.doPhaseOperation(CompilationUnit.java:942)
+	at org.codehaus.groovy.control.CompilationUnit.processPhaseOperations(CompilationUnit.java:671)
+	at org.codehaus.groovy.control.CompilationUnit.compile(CompilationUnit.java:635)
+	at groovy.lang.GroovyClassLoader.doParseClass(GroovyClassLoader.java:389)
+	at groovy.lang.GroovyClassLoader.lambda$parseClass$3(GroovyClassLoader.java:332)
+	at org.codehaus.groovy.runtime.memoize.StampedCommonCache.compute(StampedCommonCache.java:163)
+	at org.codehaus.groovy.runtime.memoize.StampedCommonCache.getAndPut(StampedCommonCache.java:154)
+	at groovy.lang.GroovyClassLoader.parseClass(GroovyClassLoader.java:330)
+	at org.gradle.groovy.scripts.internal.DefaultScriptCompilationHandler.compileScript(DefaultScriptCompilationHandler.java:139)
+	at org.gradle.groovy.scripts.internal.DefaultScriptCompilationHandler.compileToDir(DefaultScriptCompilationHandler.java:95)
+	at org.gradle.groovy.scripts.internal.BuildOperationBackedScriptCompilationHandler$2.run(BuildOperationBackedScriptCompilationHandler.java:54)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:29)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:26)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:75)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:153)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:56)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.lambda$run$1(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.internal.operations.UnmanagedBuildOperationWrapper.runWithUnmanagedSupport(UnmanagedBuildOperationWrapper.java:45)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.groovy.scripts.internal.BuildOperationBackedScriptCompilationHandler.compileToDir(BuildOperationBackedScriptCompilationHandler.java:51)
+	at org.gradle.groovy.scripts.internal.FileCacheBackedScriptClassCompiler$CompileToCrossBuildCacheAction.execute(FileCacheBackedScriptClassCompiler.java:189)
+	at org.gradle.groovy.scripts.internal.FileCacheBackedScriptClassCompiler$CompileToCrossBuildCacheAction.execute(FileCacheBackedScriptClassCompiler.java:169)
+	at org.gradle.groovy.scripts.internal.FileCacheBackedScriptClassCompiler$ProgressReportingInitializer.execute(FileCacheBackedScriptClassCompiler.java:210)
+	at org.gradle.groovy.scripts.internal.FileCacheBackedScriptClassCompiler$ProgressReportingInitializer.execute(FileCacheBackedScriptClassCompiler.java:193)
+	at org.gradle.cache.internal.DefaultPersistentDirectoryCache$Initializer.initialize(DefaultPersistentDirectoryCache.java:100)
+	at org.gradle.cache.internal.FixedSharedModeCrossProcessCacheAccess$1.run(FixedSharedModeCrossProcessCacheAccess.java:86)
+	at org.gradle.cache.internal.DefaultFileLockManager$DefaultFileLock.doWriteAction(DefaultFileLockManager.java:216)
+	at org.gradle.cache.internal.DefaultFileLockManager$DefaultFileLock.writeFile(DefaultFileLockManager.java:206)
+	at org.gradle.cache.internal.FixedSharedModeCrossProcessCacheAccess.open(FixedSharedModeCrossProcessCacheAccess.java:83)
+	at org.gradle.cache.internal.DefaultCacheAccess.open(DefaultCacheAccess.java:139)
+	at org.gradle.cache.internal.DefaultPersistentDirectoryStore.open(DefaultPersistentDirectoryStore.java:89)
+	at org.gradle.cache.internal.DefaultPersistentDirectoryStore.open(DefaultPersistentDirectoryStore.java:43)
+	at org.gradle.cache.internal.DefaultCacheFactory.doOpen(DefaultCacheFactory.java:103)
+	at org.gradle.cache.internal.DefaultCacheFactory.open(DefaultCacheFactory.java:68)
+	at org.gradle.cache.internal.DefaultCacheRepository$PersistentCacheBuilder.open(DefaultCacheRepository.java:126)
+	at org.gradle.groovy.scripts.internal.FileCacheBackedScriptClassCompiler.compile(FileCacheBackedScriptClassCompiler.java:115)
+	at org.gradle.groovy.scripts.internal.CrossBuildInMemoryCachingScriptClassCache.getOrCompile(CrossBuildInMemoryCachingScriptClassCache.java:50)
+	at org.gradle.groovy.scripts.internal.BuildScopeInMemoryCachingScriptClassCompiler.compile(BuildScopeInMemoryCachingScriptClassCompiler.java:50)
+	at org.gradle.groovy.scripts.DefaultScriptCompilerFactory$ScriptCompilerImpl.compile(DefaultScriptCompilerFactory.java:49)
+	at org.gradle.configuration.DefaultScriptPluginFactory$ScriptPluginImpl.apply(DefaultScriptPluginFactory.java:125)
+	at org.gradle.configuration.BuildOperationScriptPlugin$1.run(BuildOperationScriptPlugin.java:65)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:29)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:26)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:75)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:153)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:56)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.lambda$run$1(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.internal.operations.UnmanagedBuildOperationWrapper.runWithUnmanagedSupport(UnmanagedBuildOperationWrapper.java:45)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.configuration.BuildOperationScriptPlugin.lambda$apply$0(BuildOperationScriptPlugin.java:62)
+	at org.gradle.configuration.internal.DefaultUserCodeApplicationContext.apply(DefaultUserCodeApplicationContext.java:44)
+	at org.gradle.configuration.BuildOperationScriptPlugin.apply(BuildOperationScriptPlugin.java:62)
+	at org.gradle.configuration.DefaultInitScriptProcessor.process(DefaultInitScriptProcessor.java:50)
+	at org.gradle.initialization.InitScriptHandler$1.run(InitScriptHandler.java:56)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:29)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:26)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:75)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:153)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:56)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.lambda$run$1(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.internal.operations.UnmanagedBuildOperationWrapper.runWithUnmanagedSupport(UnmanagedBuildOperationWrapper.java:45)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.initialization.InitScriptHandler.executeScripts(InitScriptHandler.java:51)
+	at org.gradle.initialization.InitScriptHandlingSettingsLoader.findAndLoadSettings(InitScriptHandlingSettingsLoader.java:33)
+	at org.gradle.initialization.GradlePropertiesHandlingSettingsLoader.findAndLoadSettings(GradlePropertiesHandlingSettingsLoader.java:39)
+	at org.gradle.initialization.DefaultSettingsPreparer.prepareSettings(DefaultSettingsPreparer.java:31)
+	at org.gradle.initialization.BuildOperationFiringSettingsPreparer$LoadBuild.doLoadBuild(BuildOperationFiringSettingsPreparer.java:62)
+	at org.gradle.initialization.BuildOperationFiringSettingsPreparer$LoadBuild.run(BuildOperationFiringSettingsPreparer.java:57)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:29)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:26)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:75)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:153)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:56)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.lambda$run$1(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.internal.operations.UnmanagedBuildOperationWrapper.runWithUnmanagedSupport(UnmanagedBuildOperationWrapper.java:45)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:74)
+	at org.gradle.initialization.BuildOperationFiringSettingsPreparer.prepareSettings(BuildOperationFiringSettingsPreparer.java:45)
+	at org.gradle.initialization.VintageBuildModelController.prepareSettings(VintageBuildModelController.java:90)
+	at org.gradle.initialization.VintageBuildModelController.doBuildStages(VintageBuildModelController.java:73)
+	at org.gradle.initialization.VintageBuildModelController.prepareToScheduleTasks(VintageBuildModelController.java:64)
+	at org.gradle.internal.build.DefaultBuildLifecycleController.lambda$prepareToScheduleTasks$0(DefaultBuildLifecycleController.java:104)
+	at org.gradle.internal.build.DefaultBuildLifecycleController.lambda$withModelOrThrow$5(DefaultBuildLifecycleController.java:142)
+	at org.gradle.internal.build.DefaultBuildLifecycleController.withModel(DefaultBuildLifecycleController.java:157)
+	at org.gradle.internal.build.DefaultBuildLifecycleController.withModelOrThrow(DefaultBuildLifecycleController.java:140)
+	at org.gradle.internal.build.DefaultBuildLifecycleController.prepareToScheduleTasks(DefaultBuildLifecycleController.java:102)
+	at org.gradle.internal.buildtree.DefaultBuildTreeWorkPreparer.scheduleRequestedTasks(DefaultBuildTreeWorkPreparer.java:33)
+	at org.gradle.internal.buildtree.DefaultBuildTreeLifecycleController.lambda$doScheduleAndRunTasks$1(DefaultBuildTreeLifecycleController.java:83)
+	at org.gradle.composite.internal.DefaultIncludedBuildTaskGraph.withNewTaskGraph(DefaultIncludedBuildTaskGraph.java:94)
+	at org.gradle.internal.buildtree.DefaultBuildTreeLifecycleController.doScheduleAndRunTasks(DefaultBuildTreeLifecycleController.java:82)
+	at org.gradle.internal.buildtree.DefaultBuildTreeLifecycleController.lambda$fromBuildModel$0(DefaultBuildTreeLifecycleController.java:71)
+	at org.gradle.internal.buildtree.DefaultBuildTreeLifecycleController.runBuild(DefaultBuildTreeLifecycleController.java:104)
+	at org.gradle.internal.buildtree.DefaultBuildTreeLifecycleController.fromBuildModel(DefaultBuildTreeLifecycleController.java:69)
+	at org.gradle.tooling.internal.provider.runner.AbstractClientProvidedBuildActionRunner.runClientAction(AbstractClientProvidedBuildActionRunner.java:56)
+	at org.gradle.tooling.internal.provider.runner.ClientProvidedPhasedActionRunner.run(ClientProvidedPhasedActionRunner.java:53)
+	at org.gradle.launcher.exec.ChainingBuildActionRunner.run(ChainingBuildActionRunner.java:35)
+	at org.gradle.internal.buildtree.ProblemReportingBuildActionRunner.run(ProblemReportingBuildActionRunner.java:47)
+	at org.gradle.launcher.exec.BuildOutcomeReportingBuildActionRunner.run(BuildOutcomeReportingBuildActionRunner.java:69)
+	at org.gradle.tooling.internal.provider.FileSystemWatchingBuildActionRunner.run(FileSystemWatchingBuildActionRunner.java:91)
+	at org.gradle.launcher.exec.BuildCompletionNotifyingBuildActionRunner.run(BuildCompletionNotifyingBuildActionRunner.java:41)
+	at org.gradle.launcher.exec.RootBuildLifecycleBuildActionExecutor.lambda$execute$0(RootBuildLifecycleBuildActionExecutor.java:40)
+	at org.gradle.composite.internal.DefaultRootBuildState.run(DefaultRootBuildState.java:154)
+	at org.gradle.launcher.exec.RootBuildLifecycleBuildActionExecutor.execute(RootBuildLifecycleBuildActionExecutor.java:40)
+	at org.gradle.internal.buildtree.DefaultBuildTreeContext.execute(DefaultBuildTreeContext.java:40)
+	at org.gradle.launcher.exec.BuildTreeLifecycleBuildActionExecutor.lambda$execute$0(BuildTreeLifecycleBuildActionExecutor.java:56)
+	at org.gradle.internal.buildtree.BuildTreeState.run(BuildTreeState.java:53)
+	at org.gradle.launcher.exec.BuildTreeLifecycleBuildActionExecutor.execute(BuildTreeLifecycleBuildActionExecutor.java:56)
+	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionExecutor$3.call(RunAsBuildOperationBuildActionExecutor.java:61)
+	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionExecutor$3.call(RunAsBuildOperationBuildActionExecutor.java:57)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:200)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:195)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:75)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$3.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:153)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:68)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:62)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.lambda$call$2(DefaultBuildOperationExecutor.java:79)
+	at org.gradle.internal.operations.UnmanagedBuildOperationWrapper.callWithUnmanagedSupport(UnmanagedBuildOperationWrapper.java:54)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.call(DefaultBuildOperationExecutor.java:79)
+	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionExecutor.execute(RunAsBuildOperationBuildActionExecutor.java:57)
+	at org.gradle.launcher.exec.RunAsWorkerThreadBuildActionExecutor.lambda$execute$0(RunAsWorkerThreadBuildActionExecutor.java:38)
+	at org.gradle.internal.work.DefaultWorkerLeaseService.withLocks(DefaultWorkerLeaseService.java:211)
+	at org.gradle.launcher.exec.RunAsWorkerThreadBuildActionExecutor.execute(RunAsWorkerThreadBuildActionExecutor.java:38)
+	at org.gradle.tooling.internal.provider.ContinuousBuildActionExecutor.execute(ContinuousBuildActionExecutor.java:103)
+	at org.gradle.tooling.internal.provider.SubscribableBuildActionExecutor.execute(SubscribableBuildActionExecutor.java:64)
+	at org.gradle.internal.session.DefaultBuildSessionContext.execute(DefaultBuildSessionContext.java:46)
+	at org.gradle.tooling.internal.provider.BuildSessionLifecycleBuildActionExecuter.lambda$execute$0(BuildSessionLifecycleBuildActionExecuter.java:56)
+	at org.gradle.internal.session.BuildSessionState.run(BuildSessionState.java:69)
+	at org.gradle.tooling.internal.provider.BuildSessionLifecycleBuildActionExecuter.execute(BuildSessionLifecycleBuildActionExecuter.java:55)
+	at org.gradle.tooling.internal.provider.BuildSessionLifecycleBuildActionExecuter.execute(BuildSessionLifecycleBuildActionExecuter.java:37)
+	at org.gradle.tooling.internal.provider.GradleThreadBuildActionExecuter.execute(GradleThreadBuildActionExecuter.java:36)
+	at org.gradle.tooling.internal.provider.GradleThreadBuildActionExecuter.execute(GradleThreadBuildActionExecuter.java:25)
+	at org.gradle.tooling.internal.provider.StartParamsValidatingActionExecuter.execute(StartParamsValidatingActionExecuter.java:63)
+	at org.gradle.tooling.internal.provider.StartParamsValidatingActionExecuter.execute(StartParamsValidatingActionExecuter.java:31)
+	at org.gradle.tooling.internal.provider.SessionFailureReportingActionExecuter.execute(SessionFailureReportingActionExecuter.java:58)
+	at org.gradle.tooling.internal.provider.SessionFailureReportingActionExecuter.execute(SessionFailureReportingActionExecuter.java:42)
+	at org.gradle.tooling.internal.provider.SetupLoggingActionExecuter.execute(SetupLoggingActionExecuter.java:47)
+	at org.gradle.tooling.internal.provider.SetupLoggingActionExecuter.execute(SetupLoggingActionExecuter.java:31)
+	at org.gradle.launcher.daemon.server.exec.ExecuteBuild.doBuild(ExecuteBuild.java:65)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:37)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.WatchForDisconnection.execute(WatchForDisconnection.java:39)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.ResetDeprecationLogger.execute(ResetDeprecationLogger.java:29)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.RequestStopIfSingleUsedDaemon.execute(RequestStopIfSingleUsedDaemon.java:35)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput$2.create(ForwardClientInput.java:78)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput$2.create(ForwardClientInput.java:75)
+	at org.gradle.util.internal.Swapper.swap(Swapper.java:38)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput.execute(ForwardClientInput.java:75)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.LogAndCheckHealth.execute(LogAndCheckHealth.java:55)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.LogToClient.doBuild(LogToClient.java:63)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:37)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.EstablishBuildEnvironment.doBuild(EstablishBuildEnvironment.java:84)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:37)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.StartBuildOrRespondWithBusy$1.run(StartBuildOrRespondWithBusy.java:52)
+	at org.gradle.launcher.daemon.server.DaemonStateCoordinator$1.run(DaemonStateCoordinator.java:297)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+1 error
+
+	at org.gradle.groovy.scripts.internal.DefaultScriptCompilationHandler.compileScript(DefaultScriptCompilationHandler.java:139)
+	... 163 more
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:19:10.405
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:19:10.414
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 4 4 2024-08-04 18:19:13.612
+!MESSAGE Error
+!STACK 0
+java.util.concurrent.CancellationException
+	at org.eclipse.jface.internal.text.codemining.CancellationExceptionMonitor.isCanceled(CancellationExceptionMonitor.java:33)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:80)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:89)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:67)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:40)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:19:30.506
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:19:30.510
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:21:29.930
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:21:29.933
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2024-08-04 18:21:33.320
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\Softwares\eclipse\configuration\org.eclipse.osgi\957\0\.cp\lib\testng-remote.jar D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\test-classes D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\classes D:\Softwares\eclipse\plugins\org.testng_7.4.0.r202105021533.jar D:\Softwares\eclipse\plugins\com.beust.jcommander_1.78.0.jar D:\Softwares\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\Softwares\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Softwares\eclipse\plugins\org.webjars.jquery_3.5.1.jar C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured\5.4.0\rest-assured-5.4.0.jar C:\Users\Assus\.m2\repository\org\apache\groovy\groovy\4.0.16\groovy-4.0.16.jar C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-xml\4.0.16\groovy-xml-4.0.16.jar C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar C:\Users\Assus\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar C:\Users\Assus\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar C:\Users\Assus\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar C:\Users\Assus\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar C:\Users\Assus\.m2\repository\io\rest-assured\xml-path\5.4.0\xml-path-5.4.0.jar C:\Users\Assus\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar C:\Users\Assus\.m2\repository\io\rest-assured\json-path\5.4.0\json-path-5.4.0.jar C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-json\4.0.16\groovy-json-4.0.16.jar C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured-common\5.4.0\rest-assured-common-5.4.0.jar C:\Users\Assus\.m2\repository\org\json\json\20231013\json-20231013.jar C:\Users\Assus\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar C:\Users\Assus\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar C:\Users\Assus\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar C:\Users\Assus\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-apis\8.3.1\scribejava-apis-8.3.1.jar C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-core\8.3.1\scribejava-core-8.3.1.jar C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-java8\8.3.1\scribejava-java8-8.3.1.jar C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.3\jackson-databind-2.12.3.jar C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.3\jackson-annotations-2.12.3.jar C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.3\jackson-core-2.12.3.jar C:\Users\Assus\.m2\repository\io\rest-assured\json-schema-validator\5.4.0\json-schema-validator-5.4.0.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.14\json-schema-validator-2.2.14.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils-equivalence\1.0\jackson-coreutils-equivalence-1.0.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils\2.0\jackson-coreutils-2.0.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\msg-simple\1.2\msg-simple-1.2.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\btf\1.3\btf-1.3.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.14\json-schema-core-1.2.14.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\uri-template\0.10\uri-template-0.10.jar C:\Users\Assus\.m2\repository\org\mozilla\rhino\1.7.7.2\rhino-1.7.7.2.jar C:\Users\Assus\.m2\repository\com\sun\mail\mailapi\1.6.2\mailapi-1.6.2.jar C:\Users\Assus\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar C:\Users\Assus\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.11.1\libphonenumber-8.11.1.jar C:\Users\Assus\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar C:\Users\Assus\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar C:\Users\Assus\.m2\repository\com\google\guava\guava\32.0.1-jre\guava-32.0.1-jre.jar C:\Users\Assus\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar C:\Users\Assus\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar C:\Users\Assus\.m2\repository\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar C:\Users\Assus\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar C:\Users\Assus\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 58568 -protocol json -d D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\test-output C:\Users\Assus\AppData\Local\Temp\testng-eclipse-1019025727\testng-customsuite.xml
+java -ea -classpath D:\Softwares\eclipse\configuration\org.eclipse.osgi\957\0\.cp\lib\testng-remote.jar:D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\test-classes:D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\classes:D:\Softwares\eclipse\plugins\org.testng_7.4.0.r202105021533.jar:D:\Softwares\eclipse\plugins\com.beust.jcommander_1.78.0.jar:D:\Softwares\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\Softwares\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Softwares\eclipse\plugins\org.webjars.jquery_3.5.1.jar:C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured\5.4.0\rest-assured-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy\4.0.16\groovy-4.0.16.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-xml\4.0.16\groovy-xml-4.0.16.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar:C:\Users\Assus\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar:C:\Users\Assus\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar:C:\Users\Assus\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar:C:\Users\Assus\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar:C:\Users\Assus\.m2\repository\io\rest-assured\xml-path\5.4.0\xml-path-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar:C:\Users\Assus\.m2\repository\io\rest-assured\json-path\5.4.0\json-path-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-json\4.0.16\groovy-json-4.0.16.jar:C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured-common\5.4.0\rest-assured-common-5.4.0.jar:C:\Users\Assus\.m2\repository\org\json\json\20231013\json-20231013.jar:C:\Users\Assus\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar:C:\Users\Assus\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar:C:\Users\Assus\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar:C:\Users\Assus\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-apis\8.3.1\scribejava-apis-8.3.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-core\8.3.1\scribejava-core-8.3.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-java8\8.3.1\scribejava-java8-8.3.1.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.3\jackson-databind-2.12.3.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.3\jackson-annotations-2.12.3.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.3\jackson-core-2.12.3.jar:C:\Users\Assus\.m2\repository\io\rest-assured\json-schema-validator\5.4.0\json-schema-validator-5.4.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.14\json-schema-validator-2.2.14.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils-equivalence\1.0\jackson-coreutils-equivalence-1.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils\2.0\jackson-coreutils-2.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\msg-simple\1.2\msg-simple-1.2.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\btf\1.3\btf-1.3.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.14\json-schema-core-1.2.14.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\uri-template\0.10\uri-template-0.10.jar:C:\Users\Assus\.m2\repository\org\mozilla\rhino\1.7.7.2\rhino-1.7.7.2.jar:C:\Users\Assus\.m2\repository\com\sun\mail\mailapi\1.6.2\mailapi-1.6.2.jar:C:\Users\Assus\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar:C:\Users\Assus\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.11.1\libphonenumber-8.11.1.jar:C:\Users\Assus\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar:C:\Users\Assus\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar:C:\Users\Assus\.m2\repository\com\google\guava\guava\32.0.1-jre\guava-32.0.1-jre.jar:C:\Users\Assus\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar:C:\Users\Assus\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:C:\Users\Assus\.m2\repository\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar:C:\Users\Assus\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar:C:\Users\Assus\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar org.testng.remote.RemoteTestNG -serport 58568 -protocol json -d D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\test-output C:\Users\Assus\AppData\Local\Temp\testng-eclipse-1019025727\testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:23:04.198
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:23:04.201
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2024-08-04 18:23:07.707
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\Softwares\eclipse\configuration\org.eclipse.osgi\957\0\.cp\lib\testng-remote.jar D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\test-classes D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\classes D:\Softwares\eclipse\plugins\org.testng_7.4.0.r202105021533.jar D:\Softwares\eclipse\plugins\com.beust.jcommander_1.78.0.jar D:\Softwares\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\Softwares\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Softwares\eclipse\plugins\org.webjars.jquery_3.5.1.jar C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured\5.4.0\rest-assured-5.4.0.jar C:\Users\Assus\.m2\repository\org\apache\groovy\groovy\4.0.16\groovy-4.0.16.jar C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-xml\4.0.16\groovy-xml-4.0.16.jar C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar C:\Users\Assus\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar C:\Users\Assus\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar C:\Users\Assus\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar C:\Users\Assus\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar C:\Users\Assus\.m2\repository\io\rest-assured\xml-path\5.4.0\xml-path-5.4.0.jar C:\Users\Assus\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar C:\Users\Assus\.m2\repository\io\rest-assured\json-path\5.4.0\json-path-5.4.0.jar C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-json\4.0.16\groovy-json-4.0.16.jar C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured-common\5.4.0\rest-assured-common-5.4.0.jar C:\Users\Assus\.m2\repository\org\json\json\20231013\json-20231013.jar C:\Users\Assus\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar C:\Users\Assus\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar C:\Users\Assus\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar C:\Users\Assus\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-apis\8.3.1\scribejava-apis-8.3.1.jar C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-core\8.3.1\scribejava-core-8.3.1.jar C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-java8\8.3.1\scribejava-java8-8.3.1.jar C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.3\jackson-databind-2.12.3.jar C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.3\jackson-annotations-2.12.3.jar C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.3\jackson-core-2.12.3.jar C:\Users\Assus\.m2\repository\io\rest-assured\json-schema-validator\5.4.0\json-schema-validator-5.4.0.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.14\json-schema-validator-2.2.14.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils-equivalence\1.0\jackson-coreutils-equivalence-1.0.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils\2.0\jackson-coreutils-2.0.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\msg-simple\1.2\msg-simple-1.2.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\btf\1.3\btf-1.3.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.14\json-schema-core-1.2.14.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\uri-template\0.10\uri-template-0.10.jar C:\Users\Assus\.m2\repository\org\mozilla\rhino\1.7.7.2\rhino-1.7.7.2.jar C:\Users\Assus\.m2\repository\com\sun\mail\mailapi\1.6.2\mailapi-1.6.2.jar C:\Users\Assus\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar C:\Users\Assus\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.11.1\libphonenumber-8.11.1.jar C:\Users\Assus\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar C:\Users\Assus\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar C:\Users\Assus\.m2\repository\com\google\guava\guava\32.0.1-jre\guava-32.0.1-jre.jar C:\Users\Assus\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar C:\Users\Assus\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar C:\Users\Assus\.m2\repository\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar C:\Users\Assus\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar C:\Users\Assus\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 58648 -protocol json -d D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\test-output C:\Users\Assus\AppData\Local\Temp\testng-eclipse--1842196957\testng-customsuite.xml
+java -ea -classpath D:\Softwares\eclipse\configuration\org.eclipse.osgi\957\0\.cp\lib\testng-remote.jar:D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\test-classes:D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\classes:D:\Softwares\eclipse\plugins\org.testng_7.4.0.r202105021533.jar:D:\Softwares\eclipse\plugins\com.beust.jcommander_1.78.0.jar:D:\Softwares\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\Softwares\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Softwares\eclipse\plugins\org.webjars.jquery_3.5.1.jar:C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured\5.4.0\rest-assured-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy\4.0.16\groovy-4.0.16.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-xml\4.0.16\groovy-xml-4.0.16.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar:C:\Users\Assus\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar:C:\Users\Assus\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar:C:\Users\Assus\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar:C:\Users\Assus\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar:C:\Users\Assus\.m2\repository\io\rest-assured\xml-path\5.4.0\xml-path-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar:C:\Users\Assus\.m2\repository\io\rest-assured\json-path\5.4.0\json-path-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-json\4.0.16\groovy-json-4.0.16.jar:C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured-common\5.4.0\rest-assured-common-5.4.0.jar:C:\Users\Assus\.m2\repository\org\json\json\20231013\json-20231013.jar:C:\Users\Assus\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar:C:\Users\Assus\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar:C:\Users\Assus\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar:C:\Users\Assus\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-apis\8.3.1\scribejava-apis-8.3.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-core\8.3.1\scribejava-core-8.3.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-java8\8.3.1\scribejava-java8-8.3.1.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.3\jackson-databind-2.12.3.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.3\jackson-annotations-2.12.3.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.3\jackson-core-2.12.3.jar:C:\Users\Assus\.m2\repository\io\rest-assured\json-schema-validator\5.4.0\json-schema-validator-5.4.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.14\json-schema-validator-2.2.14.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils-equivalence\1.0\jackson-coreutils-equivalence-1.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils\2.0\jackson-coreutils-2.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\msg-simple\1.2\msg-simple-1.2.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\btf\1.3\btf-1.3.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.14\json-schema-core-1.2.14.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\uri-template\0.10\uri-template-0.10.jar:C:\Users\Assus\.m2\repository\org\mozilla\rhino\1.7.7.2\rhino-1.7.7.2.jar:C:\Users\Assus\.m2\repository\com\sun\mail\mailapi\1.6.2\mailapi-1.6.2.jar:C:\Users\Assus\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar:C:\Users\Assus\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.11.1\libphonenumber-8.11.1.jar:C:\Users\Assus\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar:C:\Users\Assus\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar:C:\Users\Assus\.m2\repository\com\google\guava\guava\32.0.1-jre\guava-32.0.1-jre.jar:C:\Users\Assus\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar:C:\Users\Assus\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:C:\Users\Assus\.m2\repository\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar:C:\Users\Assus\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar:C:\Users\Assus\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar org.testng.remote.RemoteTestNG -serport 58648 -protocol json -d D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\test-output C:\Users\Assus\AppData\Local\Temp\testng-eclipse--1842196957\testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:26:02.162
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:26:02.164
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:26:09.263
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:26:09.266
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:26:14.136
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:26:14.143
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:29:31.221
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:29:31.224
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.ui.ide 4 4 2024-08-04 18:29:31.420
+!MESSAGE Not properly disposed SWT resource
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:172)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:120)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:683)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:275)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:290)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:268)
+	at org.eclipse.jdt.internal.ui.viewsupport.ImageDescriptorRegistry.get(ImageDescriptorRegistry.java:63)
+	at org.eclipse.jdt.internal.ui.text.java.ChainCompletionTemplateBuilder.getChainCompletionIcon(ChainCompletionTemplateBuilder.java:168)
+	at org.eclipse.jdt.internal.ui.text.java.ChainCompletionTemplateBuilder.createTemplateProposal(ChainCompletionTemplateBuilder.java:152)
+	at org.eclipse.jdt.internal.ui.text.java.ChainCompletionTemplateBuilder.create(ChainCompletionTemplateBuilder.java:59)
+	at org.eclipse.jdt.internal.ui.text.java.ChainCompletionProposalComputer.buildCompletionProposals(ChainCompletionProposalComputer.java:185)
+	at org.eclipse.jdt.internal.ui.text.java.ChainCompletionProposalComputer.executeCallChainSearch(ChainCompletionProposalComputer.java:179)
+	at org.eclipse.jdt.internal.ui.text.java.ChainCompletionProposalComputer.computeCompletionProposals(ChainCompletionProposalComputer.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:348)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:340)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:289)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.testng.eclipse 1 0 2024-08-04 18:29:33.341
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\Softwares\eclipse\configuration\org.eclipse.osgi\957\0\.cp\lib\testng-remote.jar D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\test-classes D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\classes D:\Softwares\eclipse\plugins\org.testng_7.4.0.r202105021533.jar D:\Softwares\eclipse\plugins\com.beust.jcommander_1.78.0.jar D:\Softwares\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\Softwares\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Softwares\eclipse\plugins\org.webjars.jquery_3.5.1.jar C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured\5.4.0\rest-assured-5.4.0.jar C:\Users\Assus\.m2\repository\org\apache\groovy\groovy\4.0.16\groovy-4.0.16.jar C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-xml\4.0.16\groovy-xml-4.0.16.jar C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar C:\Users\Assus\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar C:\Users\Assus\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar C:\Users\Assus\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar C:\Users\Assus\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar C:\Users\Assus\.m2\repository\io\rest-assured\xml-path\5.4.0\xml-path-5.4.0.jar C:\Users\Assus\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar C:\Users\Assus\.m2\repository\io\rest-assured\json-path\5.4.0\json-path-5.4.0.jar C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-json\4.0.16\groovy-json-4.0.16.jar C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured-common\5.4.0\rest-assured-common-5.4.0.jar C:\Users\Assus\.m2\repository\org\json\json\20231013\json-20231013.jar C:\Users\Assus\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar C:\Users\Assus\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar C:\Users\Assus\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar C:\Users\Assus\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-apis\8.3.1\scribejava-apis-8.3.1.jar C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-core\8.3.1\scribejava-core-8.3.1.jar C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-java8\8.3.1\scribejava-java8-8.3.1.jar C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.3\jackson-databind-2.12.3.jar C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.3\jackson-annotations-2.12.3.jar C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.3\jackson-core-2.12.3.jar C:\Users\Assus\.m2\repository\io\rest-assured\json-schema-validator\5.4.0\json-schema-validator-5.4.0.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.14\json-schema-validator-2.2.14.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils-equivalence\1.0\jackson-coreutils-equivalence-1.0.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils\2.0\jackson-coreutils-2.0.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\msg-simple\1.2\msg-simple-1.2.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\btf\1.3\btf-1.3.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.14\json-schema-core-1.2.14.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\uri-template\0.10\uri-template-0.10.jar C:\Users\Assus\.m2\repository\org\mozilla\rhino\1.7.7.2\rhino-1.7.7.2.jar C:\Users\Assus\.m2\repository\com\sun\mail\mailapi\1.6.2\mailapi-1.6.2.jar C:\Users\Assus\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar C:\Users\Assus\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.11.1\libphonenumber-8.11.1.jar C:\Users\Assus\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar C:\Users\Assus\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar C:\Users\Assus\.m2\repository\com\google\guava\guava\32.0.1-jre\guava-32.0.1-jre.jar C:\Users\Assus\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar C:\Users\Assus\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar C:\Users\Assus\.m2\repository\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar C:\Users\Assus\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar C:\Users\Assus\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59123 -protocol json -d D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\test-output C:\Users\Assus\AppData\Local\Temp\testng-eclipse--680520723\testng-customsuite.xml
+java -ea -classpath D:\Softwares\eclipse\configuration\org.eclipse.osgi\957\0\.cp\lib\testng-remote.jar:D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\test-classes:D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\classes:D:\Softwares\eclipse\plugins\org.testng_7.4.0.r202105021533.jar:D:\Softwares\eclipse\plugins\com.beust.jcommander_1.78.0.jar:D:\Softwares\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\Softwares\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Softwares\eclipse\plugins\org.webjars.jquery_3.5.1.jar:C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured\5.4.0\rest-assured-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy\4.0.16\groovy-4.0.16.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-xml\4.0.16\groovy-xml-4.0.16.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar:C:\Users\Assus\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar:C:\Users\Assus\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar:C:\Users\Assus\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar:C:\Users\Assus\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar:C:\Users\Assus\.m2\repository\io\rest-assured\xml-path\5.4.0\xml-path-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar:C:\Users\Assus\.m2\repository\io\rest-assured\json-path\5.4.0\json-path-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-json\4.0.16\groovy-json-4.0.16.jar:C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured-common\5.4.0\rest-assured-common-5.4.0.jar:C:\Users\Assus\.m2\repository\org\json\json\20231013\json-20231013.jar:C:\Users\Assus\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar:C:\Users\Assus\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar:C:\Users\Assus\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar:C:\Users\Assus\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-apis\8.3.1\scribejava-apis-8.3.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-core\8.3.1\scribejava-core-8.3.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-java8\8.3.1\scribejava-java8-8.3.1.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.3\jackson-databind-2.12.3.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.3\jackson-annotations-2.12.3.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.3\jackson-core-2.12.3.jar:C:\Users\Assus\.m2\repository\io\rest-assured\json-schema-validator\5.4.0\json-schema-validator-5.4.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.14\json-schema-validator-2.2.14.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils-equivalence\1.0\jackson-coreutils-equivalence-1.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils\2.0\jackson-coreutils-2.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\msg-simple\1.2\msg-simple-1.2.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\btf\1.3\btf-1.3.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.14\json-schema-core-1.2.14.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\uri-template\0.10\uri-template-0.10.jar:C:\Users\Assus\.m2\repository\org\mozilla\rhino\1.7.7.2\rhino-1.7.7.2.jar:C:\Users\Assus\.m2\repository\com\sun\mail\mailapi\1.6.2\mailapi-1.6.2.jar:C:\Users\Assus\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar:C:\Users\Assus\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.11.1\libphonenumber-8.11.1.jar:C:\Users\Assus\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar:C:\Users\Assus\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar:C:\Users\Assus\.m2\repository\com\google\guava\guava\32.0.1-jre\guava-32.0.1-jre.jar:C:\Users\Assus\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar:C:\Users\Assus\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:C:\Users\Assus\.m2\repository\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar:C:\Users\Assus\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar:C:\Users\Assus\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar org.testng.remote.RemoteTestNG -serport 59123 -protocol json -d D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\test-output C:\Users\Assus\AppData\Local\Temp\testng-eclipse--680520723\testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:29:56.805
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:29:56.808
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2024-08-04 18:29:59.161
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\Softwares\eclipse\configuration\org.eclipse.osgi\957\0\.cp\lib\testng-remote.jar D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\test-classes D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\classes D:\Softwares\eclipse\plugins\org.testng_7.4.0.r202105021533.jar D:\Softwares\eclipse\plugins\com.beust.jcommander_1.78.0.jar D:\Softwares\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\Softwares\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Softwares\eclipse\plugins\org.webjars.jquery_3.5.1.jar C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured\5.4.0\rest-assured-5.4.0.jar C:\Users\Assus\.m2\repository\org\apache\groovy\groovy\4.0.16\groovy-4.0.16.jar C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-xml\4.0.16\groovy-xml-4.0.16.jar C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar C:\Users\Assus\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar C:\Users\Assus\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar C:\Users\Assus\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar C:\Users\Assus\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar C:\Users\Assus\.m2\repository\io\rest-assured\xml-path\5.4.0\xml-path-5.4.0.jar C:\Users\Assus\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar C:\Users\Assus\.m2\repository\io\rest-assured\json-path\5.4.0\json-path-5.4.0.jar C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-json\4.0.16\groovy-json-4.0.16.jar C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured-common\5.4.0\rest-assured-common-5.4.0.jar C:\Users\Assus\.m2\repository\org\json\json\20231013\json-20231013.jar C:\Users\Assus\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar C:\Users\Assus\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar C:\Users\Assus\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar C:\Users\Assus\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-apis\8.3.1\scribejava-apis-8.3.1.jar C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-core\8.3.1\scribejava-core-8.3.1.jar C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-java8\8.3.1\scribejava-java8-8.3.1.jar C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.3\jackson-databind-2.12.3.jar C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.3\jackson-annotations-2.12.3.jar C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.3\jackson-core-2.12.3.jar C:\Users\Assus\.m2\repository\io\rest-assured\json-schema-validator\5.4.0\json-schema-validator-5.4.0.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.14\json-schema-validator-2.2.14.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils-equivalence\1.0\jackson-coreutils-equivalence-1.0.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils\2.0\jackson-coreutils-2.0.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\msg-simple\1.2\msg-simple-1.2.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\btf\1.3\btf-1.3.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.14\json-schema-core-1.2.14.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\uri-template\0.10\uri-template-0.10.jar C:\Users\Assus\.m2\repository\org\mozilla\rhino\1.7.7.2\rhino-1.7.7.2.jar C:\Users\Assus\.m2\repository\com\sun\mail\mailapi\1.6.2\mailapi-1.6.2.jar C:\Users\Assus\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar C:\Users\Assus\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.11.1\libphonenumber-8.11.1.jar C:\Users\Assus\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar C:\Users\Assus\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar C:\Users\Assus\.m2\repository\com\google\guava\guava\32.0.1-jre\guava-32.0.1-jre.jar C:\Users\Assus\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar C:\Users\Assus\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar C:\Users\Assus\.m2\repository\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar C:\Users\Assus\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar C:\Users\Assus\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59152 -protocol json -d D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\test-output C:\Users\Assus\AppData\Local\Temp\testng-eclipse--1930154502\testng-customsuite.xml
+java -ea -classpath D:\Softwares\eclipse\configuration\org.eclipse.osgi\957\0\.cp\lib\testng-remote.jar:D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\test-classes:D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\classes:D:\Softwares\eclipse\plugins\org.testng_7.4.0.r202105021533.jar:D:\Softwares\eclipse\plugins\com.beust.jcommander_1.78.0.jar:D:\Softwares\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\Softwares\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Softwares\eclipse\plugins\org.webjars.jquery_3.5.1.jar:C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured\5.4.0\rest-assured-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy\4.0.16\groovy-4.0.16.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-xml\4.0.16\groovy-xml-4.0.16.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar:C:\Users\Assus\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar:C:\Users\Assus\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar:C:\Users\Assus\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar:C:\Users\Assus\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar:C:\Users\Assus\.m2\repository\io\rest-assured\xml-path\5.4.0\xml-path-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar:C:\Users\Assus\.m2\repository\io\rest-assured\json-path\5.4.0\json-path-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-json\4.0.16\groovy-json-4.0.16.jar:C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured-common\5.4.0\rest-assured-common-5.4.0.jar:C:\Users\Assus\.m2\repository\org\json\json\20231013\json-20231013.jar:C:\Users\Assus\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar:C:\Users\Assus\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar:C:\Users\Assus\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar:C:\Users\Assus\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-apis\8.3.1\scribejava-apis-8.3.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-core\8.3.1\scribejava-core-8.3.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-java8\8.3.1\scribejava-java8-8.3.1.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.3\jackson-databind-2.12.3.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.3\jackson-annotations-2.12.3.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.3\jackson-core-2.12.3.jar:C:\Users\Assus\.m2\repository\io\rest-assured\json-schema-validator\5.4.0\json-schema-validator-5.4.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.14\json-schema-validator-2.2.14.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils-equivalence\1.0\jackson-coreutils-equivalence-1.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils\2.0\jackson-coreutils-2.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\msg-simple\1.2\msg-simple-1.2.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\btf\1.3\btf-1.3.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.14\json-schema-core-1.2.14.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\uri-template\0.10\uri-template-0.10.jar:C:\Users\Assus\.m2\repository\org\mozilla\rhino\1.7.7.2\rhino-1.7.7.2.jar:C:\Users\Assus\.m2\repository\com\sun\mail\mailapi\1.6.2\mailapi-1.6.2.jar:C:\Users\Assus\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar:C:\Users\Assus\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.11.1\libphonenumber-8.11.1.jar:C:\Users\Assus\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar:C:\Users\Assus\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar:C:\Users\Assus\.m2\repository\com\google\guava\guava\32.0.1-jre\guava-32.0.1-jre.jar:C:\Users\Assus\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar:C:\Users\Assus\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:C:\Users\Assus\.m2\repository\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar:C:\Users\Assus\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar:C:\Users\Assus\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar org.testng.remote.RemoteTestNG -serport 59152 -protocol json -d D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\test-output C:\Users\Assus\AppData\Local\Temp\testng-eclipse--1930154502\testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:31:59.171
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:31:59.173
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2024-08-04 18:32:00.925
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\Softwares\eclipse\configuration\org.eclipse.osgi\957\0\.cp\lib\testng-remote.jar D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\test-classes D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\classes D:\Softwares\eclipse\plugins\org.testng_7.4.0.r202105021533.jar D:\Softwares\eclipse\plugins\com.beust.jcommander_1.78.0.jar D:\Softwares\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\Softwares\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Softwares\eclipse\plugins\org.webjars.jquery_3.5.1.jar C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured\5.4.0\rest-assured-5.4.0.jar C:\Users\Assus\.m2\repository\org\apache\groovy\groovy\4.0.16\groovy-4.0.16.jar C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-xml\4.0.16\groovy-xml-4.0.16.jar C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar C:\Users\Assus\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar C:\Users\Assus\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar C:\Users\Assus\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar C:\Users\Assus\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar C:\Users\Assus\.m2\repository\io\rest-assured\xml-path\5.4.0\xml-path-5.4.0.jar C:\Users\Assus\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar C:\Users\Assus\.m2\repository\io\rest-assured\json-path\5.4.0\json-path-5.4.0.jar C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-json\4.0.16\groovy-json-4.0.16.jar C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured-common\5.4.0\rest-assured-common-5.4.0.jar C:\Users\Assus\.m2\repository\org\json\json\20231013\json-20231013.jar C:\Users\Assus\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar C:\Users\Assus\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar C:\Users\Assus\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar C:\Users\Assus\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-apis\8.3.1\scribejava-apis-8.3.1.jar C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-core\8.3.1\scribejava-core-8.3.1.jar C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-java8\8.3.1\scribejava-java8-8.3.1.jar C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.3\jackson-databind-2.12.3.jar C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.3\jackson-annotations-2.12.3.jar C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.3\jackson-core-2.12.3.jar C:\Users\Assus\.m2\repository\io\rest-assured\json-schema-validator\5.4.0\json-schema-validator-5.4.0.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.14\json-schema-validator-2.2.14.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils-equivalence\1.0\jackson-coreutils-equivalence-1.0.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils\2.0\jackson-coreutils-2.0.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\msg-simple\1.2\msg-simple-1.2.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\btf\1.3\btf-1.3.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.14\json-schema-core-1.2.14.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\uri-template\0.10\uri-template-0.10.jar C:\Users\Assus\.m2\repository\org\mozilla\rhino\1.7.7.2\rhino-1.7.7.2.jar C:\Users\Assus\.m2\repository\com\sun\mail\mailapi\1.6.2\mailapi-1.6.2.jar C:\Users\Assus\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar C:\Users\Assus\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.11.1\libphonenumber-8.11.1.jar C:\Users\Assus\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar C:\Users\Assus\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar C:\Users\Assus\.m2\repository\com\google\guava\guava\32.0.1-jre\guava-32.0.1-jre.jar C:\Users\Assus\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar C:\Users\Assus\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar C:\Users\Assus\.m2\repository\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar C:\Users\Assus\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar C:\Users\Assus\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59253 -protocol json -d D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\test-output C:\Users\Assus\AppData\Local\Temp\testng-eclipse-551292013\testng-customsuite.xml
+java -ea -classpath D:\Softwares\eclipse\configuration\org.eclipse.osgi\957\0\.cp\lib\testng-remote.jar:D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\test-classes:D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\classes:D:\Softwares\eclipse\plugins\org.testng_7.4.0.r202105021533.jar:D:\Softwares\eclipse\plugins\com.beust.jcommander_1.78.0.jar:D:\Softwares\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\Softwares\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Softwares\eclipse\plugins\org.webjars.jquery_3.5.1.jar:C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured\5.4.0\rest-assured-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy\4.0.16\groovy-4.0.16.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-xml\4.0.16\groovy-xml-4.0.16.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar:C:\Users\Assus\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar:C:\Users\Assus\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar:C:\Users\Assus\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar:C:\Users\Assus\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar:C:\Users\Assus\.m2\repository\io\rest-assured\xml-path\5.4.0\xml-path-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar:C:\Users\Assus\.m2\repository\io\rest-assured\json-path\5.4.0\json-path-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-json\4.0.16\groovy-json-4.0.16.jar:C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured-common\5.4.0\rest-assured-common-5.4.0.jar:C:\Users\Assus\.m2\repository\org\json\json\20231013\json-20231013.jar:C:\Users\Assus\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar:C:\Users\Assus\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar:C:\Users\Assus\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar:C:\Users\Assus\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-apis\8.3.1\scribejava-apis-8.3.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-core\8.3.1\scribejava-core-8.3.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-java8\8.3.1\scribejava-java8-8.3.1.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.3\jackson-databind-2.12.3.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.3\jackson-annotations-2.12.3.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.3\jackson-core-2.12.3.jar:C:\Users\Assus\.m2\repository\io\rest-assured\json-schema-validator\5.4.0\json-schema-validator-5.4.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.14\json-schema-validator-2.2.14.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils-equivalence\1.0\jackson-coreutils-equivalence-1.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils\2.0\jackson-coreutils-2.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\msg-simple\1.2\msg-simple-1.2.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\btf\1.3\btf-1.3.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.14\json-schema-core-1.2.14.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\uri-template\0.10\uri-template-0.10.jar:C:\Users\Assus\.m2\repository\org\mozilla\rhino\1.7.7.2\rhino-1.7.7.2.jar:C:\Users\Assus\.m2\repository\com\sun\mail\mailapi\1.6.2\mailapi-1.6.2.jar:C:\Users\Assus\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar:C:\Users\Assus\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.11.1\libphonenumber-8.11.1.jar:C:\Users\Assus\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar:C:\Users\Assus\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar:C:\Users\Assus\.m2\repository\com\google\guava\guava\32.0.1-jre\guava-32.0.1-jre.jar:C:\Users\Assus\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar:C:\Users\Assus\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:C:\Users\Assus\.m2\repository\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar:C:\Users\Assus\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar:C:\Users\Assus\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar org.testng.remote.RemoteTestNG -serport 59253 -protocol json -d D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\test-output C:\Users\Assus\AppData\Local\Temp\testng-eclipse-551292013\testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:32:56.889
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:32:56.891
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2024-08-04 18:32:59.410
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\Softwares\eclipse\configuration\org.eclipse.osgi\957\0\.cp\lib\testng-remote.jar D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\test-classes D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\classes D:\Softwares\eclipse\plugins\org.testng_7.4.0.r202105021533.jar D:\Softwares\eclipse\plugins\com.beust.jcommander_1.78.0.jar D:\Softwares\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\Softwares\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Softwares\eclipse\plugins\org.webjars.jquery_3.5.1.jar C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured\5.4.0\rest-assured-5.4.0.jar C:\Users\Assus\.m2\repository\org\apache\groovy\groovy\4.0.16\groovy-4.0.16.jar C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-xml\4.0.16\groovy-xml-4.0.16.jar C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar C:\Users\Assus\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar C:\Users\Assus\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar C:\Users\Assus\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar C:\Users\Assus\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar C:\Users\Assus\.m2\repository\io\rest-assured\xml-path\5.4.0\xml-path-5.4.0.jar C:\Users\Assus\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar C:\Users\Assus\.m2\repository\io\rest-assured\json-path\5.4.0\json-path-5.4.0.jar C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-json\4.0.16\groovy-json-4.0.16.jar C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured-common\5.4.0\rest-assured-common-5.4.0.jar C:\Users\Assus\.m2\repository\org\json\json\20231013\json-20231013.jar C:\Users\Assus\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar C:\Users\Assus\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar C:\Users\Assus\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar C:\Users\Assus\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-apis\8.3.1\scribejava-apis-8.3.1.jar C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-core\8.3.1\scribejava-core-8.3.1.jar C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-java8\8.3.1\scribejava-java8-8.3.1.jar C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.3\jackson-databind-2.12.3.jar C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.3\jackson-annotations-2.12.3.jar C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.3\jackson-core-2.12.3.jar C:\Users\Assus\.m2\repository\io\rest-assured\json-schema-validator\5.4.0\json-schema-validator-5.4.0.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.14\json-schema-validator-2.2.14.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils-equivalence\1.0\jackson-coreutils-equivalence-1.0.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils\2.0\jackson-coreutils-2.0.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\msg-simple\1.2\msg-simple-1.2.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\btf\1.3\btf-1.3.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.14\json-schema-core-1.2.14.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\uri-template\0.10\uri-template-0.10.jar C:\Users\Assus\.m2\repository\org\mozilla\rhino\1.7.7.2\rhino-1.7.7.2.jar C:\Users\Assus\.m2\repository\com\sun\mail\mailapi\1.6.2\mailapi-1.6.2.jar C:\Users\Assus\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar C:\Users\Assus\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.11.1\libphonenumber-8.11.1.jar C:\Users\Assus\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar C:\Users\Assus\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar C:\Users\Assus\.m2\repository\com\google\guava\guava\32.0.1-jre\guava-32.0.1-jre.jar C:\Users\Assus\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar C:\Users\Assus\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar C:\Users\Assus\.m2\repository\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar C:\Users\Assus\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar C:\Users\Assus\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59283 -protocol json -d D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\test-output C:\Users\Assus\AppData\Local\Temp\testng-eclipse--1436092587\testng-customsuite.xml
+java -ea -classpath D:\Softwares\eclipse\configuration\org.eclipse.osgi\957\0\.cp\lib\testng-remote.jar:D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\test-classes:D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\classes:D:\Softwares\eclipse\plugins\org.testng_7.4.0.r202105021533.jar:D:\Softwares\eclipse\plugins\com.beust.jcommander_1.78.0.jar:D:\Softwares\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\Softwares\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Softwares\eclipse\plugins\org.webjars.jquery_3.5.1.jar:C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured\5.4.0\rest-assured-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy\4.0.16\groovy-4.0.16.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-xml\4.0.16\groovy-xml-4.0.16.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar:C:\Users\Assus\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar:C:\Users\Assus\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar:C:\Users\Assus\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar:C:\Users\Assus\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar:C:\Users\Assus\.m2\repository\io\rest-assured\xml-path\5.4.0\xml-path-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar:C:\Users\Assus\.m2\repository\io\rest-assured\json-path\5.4.0\json-path-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-json\4.0.16\groovy-json-4.0.16.jar:C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured-common\5.4.0\rest-assured-common-5.4.0.jar:C:\Users\Assus\.m2\repository\org\json\json\20231013\json-20231013.jar:C:\Users\Assus\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar:C:\Users\Assus\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar:C:\Users\Assus\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar:C:\Users\Assus\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-apis\8.3.1\scribejava-apis-8.3.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-core\8.3.1\scribejava-core-8.3.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-java8\8.3.1\scribejava-java8-8.3.1.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.3\jackson-databind-2.12.3.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.3\jackson-annotations-2.12.3.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.3\jackson-core-2.12.3.jar:C:\Users\Assus\.m2\repository\io\rest-assured\json-schema-validator\5.4.0\json-schema-validator-5.4.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.14\json-schema-validator-2.2.14.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils-equivalence\1.0\jackson-coreutils-equivalence-1.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils\2.0\jackson-coreutils-2.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\msg-simple\1.2\msg-simple-1.2.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\btf\1.3\btf-1.3.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.14\json-schema-core-1.2.14.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\uri-template\0.10\uri-template-0.10.jar:C:\Users\Assus\.m2\repository\org\mozilla\rhino\1.7.7.2\rhino-1.7.7.2.jar:C:\Users\Assus\.m2\repository\com\sun\mail\mailapi\1.6.2\mailapi-1.6.2.jar:C:\Users\Assus\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar:C:\Users\Assus\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.11.1\libphonenumber-8.11.1.jar:C:\Users\Assus\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar:C:\Users\Assus\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar:C:\Users\Assus\.m2\repository\com\google\guava\guava\32.0.1-jre\guava-32.0.1-jre.jar:C:\Users\Assus\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar:C:\Users\Assus\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:C:\Users\Assus\.m2\repository\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar:C:\Users\Assus\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar:C:\Users\Assus\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar org.testng.remote.RemoteTestNG -serport 59283 -protocol json -d D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\test-output C:\Users\Assus\AppData\Local\Temp\testng-eclipse--1436092587\testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:35:24.084
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:35:24.087
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2024-08-04 18:35:25.879
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: D:\Softwares\eclipse\configuration\org.eclipse.osgi\957\0\.cp\lib\testng-remote.jar D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\test-classes D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\classes D:\Softwares\eclipse\plugins\org.testng_7.4.0.r202105021533.jar D:\Softwares\eclipse\plugins\com.beust.jcommander_1.78.0.jar D:\Softwares\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar D:\Softwares\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar D:\Softwares\eclipse\plugins\org.webjars.jquery_3.5.1.jar C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured\5.4.0\rest-assured-5.4.0.jar C:\Users\Assus\.m2\repository\org\apache\groovy\groovy\4.0.16\groovy-4.0.16.jar C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-xml\4.0.16\groovy-xml-4.0.16.jar C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar C:\Users\Assus\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar C:\Users\Assus\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar C:\Users\Assus\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar C:\Users\Assus\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar C:\Users\Assus\.m2\repository\io\rest-assured\xml-path\5.4.0\xml-path-5.4.0.jar C:\Users\Assus\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar C:\Users\Assus\.m2\repository\io\rest-assured\json-path\5.4.0\json-path-5.4.0.jar C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-json\4.0.16\groovy-json-4.0.16.jar C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured-common\5.4.0\rest-assured-common-5.4.0.jar C:\Users\Assus\.m2\repository\org\json\json\20231013\json-20231013.jar C:\Users\Assus\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar C:\Users\Assus\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar C:\Users\Assus\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar C:\Users\Assus\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-apis\8.3.1\scribejava-apis-8.3.1.jar C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-core\8.3.1\scribejava-core-8.3.1.jar C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-java8\8.3.1\scribejava-java8-8.3.1.jar C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.3\jackson-databind-2.12.3.jar C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.3\jackson-annotations-2.12.3.jar C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.3\jackson-core-2.12.3.jar C:\Users\Assus\.m2\repository\io\rest-assured\json-schema-validator\5.4.0\json-schema-validator-5.4.0.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.14\json-schema-validator-2.2.14.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils-equivalence\1.0\jackson-coreutils-equivalence-1.0.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils\2.0\jackson-coreutils-2.0.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\msg-simple\1.2\msg-simple-1.2.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\btf\1.3\btf-1.3.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.14\json-schema-core-1.2.14.jar C:\Users\Assus\.m2\repository\com\github\java-json-tools\uri-template\0.10\uri-template-0.10.jar C:\Users\Assus\.m2\repository\org\mozilla\rhino\1.7.7.2\rhino-1.7.7.2.jar C:\Users\Assus\.m2\repository\com\sun\mail\mailapi\1.6.2\mailapi-1.6.2.jar C:\Users\Assus\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar C:\Users\Assus\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.11.1\libphonenumber-8.11.1.jar C:\Users\Assus\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar C:\Users\Assus\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar C:\Users\Assus\.m2\repository\com\google\guava\guava\32.0.1-jre\guava-32.0.1-jre.jar C:\Users\Assus\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar C:\Users\Assus\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar C:\Users\Assus\.m2\repository\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar C:\Users\Assus\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar C:\Users\Assus\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59405 -protocol json -d D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\test-output C:\Users\Assus\AppData\Local\Temp\testng-eclipse-200091244\testng-customsuite.xml
+java -ea -classpath D:\Softwares\eclipse\configuration\org.eclipse.osgi\957\0\.cp\lib\testng-remote.jar:D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\test-classes:D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\target\classes:D:\Softwares\eclipse\plugins\org.testng_7.4.0.r202105021533.jar:D:\Softwares\eclipse\plugins\com.beust.jcommander_1.78.0.jar:D:\Softwares\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:D:\Softwares\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar:D:\Softwares\eclipse\plugins\org.webjars.jquery_3.5.1.jar:C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured\5.4.0\rest-assured-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy\4.0.16\groovy-4.0.16.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-xml\4.0.16\groovy-xml-4.0.16.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar:C:\Users\Assus\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar:C:\Users\Assus\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar:C:\Users\Assus\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar:C:\Users\Assus\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar:C:\Users\Assus\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar:C:\Users\Assus\.m2\repository\io\rest-assured\xml-path\5.4.0\xml-path-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar:C:\Users\Assus\.m2\repository\io\rest-assured\json-path\5.4.0\json-path-5.4.0.jar:C:\Users\Assus\.m2\repository\org\apache\groovy\groovy-json\4.0.16\groovy-json-4.0.16.jar:C:\Users\Assus\.m2\repository\io\rest-assured\rest-assured-common\5.4.0\rest-assured-common-5.4.0.jar:C:\Users\Assus\.m2\repository\org\json\json\20231013\json-20231013.jar:C:\Users\Assus\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar:C:\Users\Assus\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar:C:\Users\Assus\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar:C:\Users\Assus\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-apis\8.3.1\scribejava-apis-8.3.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-core\8.3.1\scribejava-core-8.3.1.jar:C:\Users\Assus\.m2\repository\com\github\scribejava\scribejava-java8\8.3.1\scribejava-java8-8.3.1.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.3\jackson-databind-2.12.3.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.3\jackson-annotations-2.12.3.jar:C:\Users\Assus\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.3\jackson-core-2.12.3.jar:C:\Users\Assus\.m2\repository\io\rest-assured\json-schema-validator\5.4.0\json-schema-validator-5.4.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.14\json-schema-validator-2.2.14.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils-equivalence\1.0\jackson-coreutils-equivalence-1.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\jackson-coreutils\2.0\jackson-coreutils-2.0.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\msg-simple\1.2\msg-simple-1.2.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\btf\1.3\btf-1.3.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.14\json-schema-core-1.2.14.jar:C:\Users\Assus\.m2\repository\com\github\java-json-tools\uri-template\0.10\uri-template-0.10.jar:C:\Users\Assus\.m2\repository\org\mozilla\rhino\1.7.7.2\rhino-1.7.7.2.jar:C:\Users\Assus\.m2\repository\com\sun\mail\mailapi\1.6.2\mailapi-1.6.2.jar:C:\Users\Assus\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar:C:\Users\Assus\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.11.1\libphonenumber-8.11.1.jar:C:\Users\Assus\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar:C:\Users\Assus\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar:C:\Users\Assus\.m2\repository\com\google\guava\guava\32.0.1-jre\guava-32.0.1-jre.jar:C:\Users\Assus\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar:C:\Users\Assus\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:C:\Users\Assus\.m2\repository\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar:C:\Users\Assus\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar:C:\Users\Assus\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar org.testng.remote.RemoteTestNG -serport 59405 -protocol json -d D:\SDET Level 2\Rest Assured\RestAssuredSerenityBDD\RestAssuredTraining\test-output C:\Users\Assus\AppData\Local\Temp\testng-eclipse-200091244\testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:42:58.804
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:42:58.807
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:44:08.026
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:44:08.029
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-08-04 18:44:15.830
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$13(LanguageServerWrapper.java:425)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$4(LanguageServerWrapper.java:260)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:44:15.913
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:44:15.917
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:45:08.418
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:45:08.420
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:46:17.655
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:46:17.658
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:50:33.458
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 18:50:33.460
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-08-04 18:56:20.111
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$13(LanguageServerWrapper.java:425)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$4(LanguageServerWrapper.java:260)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 19:16:54.266
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 19:16:54.270
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 19:22:25.193
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 19:22:25.195
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 19:25:15.656
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 19:25:15.659
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 19:25:22.397
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 19:25:22.399
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 19:27:10.096
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 19:27:10.098
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 19:27:55.493
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 19:27:55.495
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 19:30:15.911
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-04 19:30:15.914
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
