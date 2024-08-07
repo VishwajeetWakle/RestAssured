@@ -1,13 +1,9 @@
 package day1;
-import org.testng.annotations.Test;
-
-import io.restassured.response.Response;
-
-import static io.restassured.RestAssured.*;
-import static io.restassured.matcher.RestAssuredMatchers.*;
-import static org.hamcrest.Matchers.*;
+import static io.restassured.RestAssured.given;
 
 import java.util.HashMap;
+
+import org.testng.annotations.Test;
 public class HTTPRequests {
 	
 	int id;
@@ -30,7 +26,7 @@ public class HTTPRequests {
 	@Test(priority = 1)
 	void createUser() {
 		
-		HashMap map = new HashMap();
+		HashMap<String, String> map = new HashMap<String, String>();
 		
 		map.put("name", "demo");
 		map.put("job", "trainer");
@@ -55,7 +51,7 @@ public class HTTPRequests {
 	@Test(priority = 2, dependsOnMethods = "createUser")
 	void updateUser() {
 		System.out.println("Id in update User "+id);
-		HashMap map = new HashMap();
+		HashMap<String, String> map = new HashMap<String, String>();
 		map.put("name", "updated");
 		map.put("email", "demo@gmail.com");
 		

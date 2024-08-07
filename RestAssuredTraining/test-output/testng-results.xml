@@ -1,17 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-06T21:15:22 IST" name="Default suite" finished-at="2024-08-06T21:15:22 IST" duration-ms="191">
+  <suite started-at="2024-08-07T20:11:27 IST" name="Suite" finished-at="2024-08-07T20:11:30 IST" duration-ms="3501">
     <groups>
     </groups>
-    <test started-at="2024-08-06T21:15:22 IST" name="Default test" finished-at="2024-08-06T21:15:22 IST" duration-ms="191">
-      <class name="day7.FakerLibForDummyData">
-        <test-method signature="testGenerateDummyData()[pri:0, instance:day7.FakerLibForDummyData@a2431d0]" started-at="2024-08-06T21:15:22 IST" name="testGenerateDummyData" finished-at="2024-08-06T21:15:22 IST" duration-ms="166" status="PASS">
+    <test started-at="2024-08-07T20:11:27 IST" name="Test" finished-at="2024-08-07T20:11:30 IST" duration-ms="3501">
+      <class name="day8.suite.DeleteUser">
+        <test-method signature="deleteUser(org.testng.ITestContext)[pri:0, instance:day8.suite.DeleteUser@15aab8c6]" started-at="2024-08-07T20:11:30 IST" name="deleteUser" finished-at="2024-08-07T20:11:30 IST" duration-ms="306" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@4be29ed9]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testGenerateDummyData -->
-      </class> <!-- day7.FakerLibForDummyData -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- deleteUser -->
+      </class> <!-- day8.suite.DeleteUser -->
+      <class name="day8.suite.GetUser">
+        <test-method signature="getUser(org.testng.ITestContext)[pri:0, instance:day8.suite.GetUser@2df9b86]" started-at="2024-08-07T20:11:29 IST" name="getUser" finished-at="2024-08-07T20:11:29 IST" duration-ms="322" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@4be29ed9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+      </class> <!-- day8.suite.GetUser -->
+      <class name="day8.suite.CreateUser">
+        <test-method signature="testCreateUser(org.testng.ITestContext)[pri:0, instance:day8.suite.CreateUser@693fe6c9]" started-at="2024-08-07T20:11:27 IST" name="testCreateUser" finished-at="2024-08-07T20:11:29 IST" duration-ms="2374" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@4be29ed9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+      </class> <!-- day8.suite.CreateUser -->
+      <class name="day8.suite.UpdateUser">
+        <test-method signature="updateUser(org.testng.ITestContext)[pri:0, instance:day8.suite.UpdateUser@37654521]" started-at="2024-08-07T20:11:29 IST" name="updateUser" finished-at="2024-08-07T20:11:30 IST" duration-ms="457" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@4be29ed9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser -->
+      </class> <!-- day8.suite.UpdateUser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
